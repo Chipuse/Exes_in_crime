@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: ef075b7e400e74045a3904b97b632f85
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Universalis ADF Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bdcf19832db3493489a3aa278eeb6e79, type: 3}
+  - {fileID: 12800000, guid: f81be06a124319944a82ec72f1d95630, type: 3}
+  - {fileID: 12800000, guid: 128dd537a6a6121478cfd2161db07903, type: 3}
+  - {fileID: 12800000, guid: b832f93ceab89f84e802cae9a9edc02a, type: 3}
+  - {fileID: 12800000, guid: 7cf3ea8cd5d379f4784b6459313504dc, type: 3}
+  - {fileID: 12800000, guid: 6dd4f379a89ca1043b96d3b008aebbf4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

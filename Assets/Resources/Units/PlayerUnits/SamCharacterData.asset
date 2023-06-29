@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a99edc8c1e5c52f4db2411da2cd180be, type: 3}
+  m_Name: SamCharacterData
+  m_EditorClassIdentifier: 
+  CharacterName: Samantha
+  characterUnitPrefab: {fileID: 4133704557395315058, guid: b7d77881406f2694d85aaa4cb741af2e, type: 3}
+  conImageL: {fileID: 21300000, guid: 73340efe9afbc8c45adaaa19c9d72cdb, type: 3}
+  conImageR: {fileID: 21300000, guid: 73340efe9afbc8c45adaaa19c9d72cdb, type: 3}
+  character: 4

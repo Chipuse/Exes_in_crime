@@ -1,0 +1,472 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87e815090042d34f8ee4c8e8c33cb82, type: 3}
+  m_Name: Mission01_02
+  m_EditorClassIdentifier: 
+  ConvoName: 
+  Textboxen:
+  - Speaker: 0
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 55ebcefb8a931e44eb8ef756e5e9bc02, type: 3}
+    Text: "...and after that, he said to me \u201CI've never seen someone wrestle
+      a polar bear and live before, Phib. And trust me, as the president of the United
+      States of America, I\u2019ve seen many a man try. I\u2019ll let you go.\u201D "
+    ImageL: 0
+    FocusL: 0
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 564f9a2f71063094bb701f09dc904b30, type: 3}
+    Text: "And I was like \u201CDamn, Mr. P., thanks for the props.\u201D And then
+      they dropped all charges- cool stuff, ya know? Anyway- "
+    ImageL: 0
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 1ced810e437a1d646bba7378d9031218, type: 3}
+    Text: '...aww, thank you for the subs, Rebecca! And yeah, it really WAS wild- '
+    ImageL: 0
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 0af688529b244864e81cee1538c122a7, type: 3}
+    Text: Uhh, Phineas? Is that you?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: f2e92dcc7c589fa4c8f63c37000e3517, type: 3}
+    Text: WAAH! Whoa whoa!
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 13c7a13682d0c5f45b5318a8fe4c4660, type: 3}
+    Text: "Back off! I\u2019m armed and ready to strike!"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: a9ef5b6390a27a34593750bc9768cd52, type: 3}
+    Text: "Calm down! It\u2019s just me!"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: c8c38a9730e71f147885667780de229c, type: 3}
+    Text: "Wha- Vin? What? Excuse me? What are you doing in my house?! Can\u2019t
+      you knock or something?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 503f9e97571b53c4e95c1ee6140190b6, type: 3}
+    Text: There was no time for knocking. I had to see you again, Phine-
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 38204d2eaea9d124d81d2e9f136bf522, type: 3}
+    Text: "Ah, Phib. Just Phib- I have like, a thing going on now? So. Haha. Also-
+      we\u2019re live. Soooooo-"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: cbcb0252826465c49b4a1664087c827b, type: 3}
+    Text: "\u201CLive\u201D? Right now? "
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: e3bdf5d90acfa00478a01ce6d2ecd4cd, type: 3}
+    Text: Uhhhm-
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 3419eee17f3b6ed4483bb98e0d93c61b, type: 3}
+    Text: "SO, Phibians, guys, fans- this is him! YUP! My surprise for today: our
+      special guest, Vin. I know, I know! Although he\u2019s late. Uh, couple,years
+      late- but, he\u2019s back! You\u2019ve been waiting- and yes, it\u2019s him-
+      it\u2019s real. Calm down! "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: b424f6644ae0e204ab1d092f34851e86, type: 3}
+    Text: "So! Vin. How\u2019s your day going, mh? Did you get here ok? Do tell!
+      They\u2019re dying to know."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: e92fba2f2fbf3d942b5ff079df9e3995, type: 3}
+    Text: "\u2026Mostly fine, thank you. Way better now that you\u2019re around.
+      Although dodging all those alarms outside was a bit straining. And you have
+      guards now, huh?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: ffcd349ce595b0f4a866dbbb7b10d656, type: 3}
+    Text: "Haha! Yeah. New system. For privacy. Did you like it? I put a lot of effort
+      into that\u2026 Just, you know. Some of my fans, they're kinda wild. So."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 4d0ef40be0f288642802b7596fc33883, type: 3}
+    Text: Right-
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: b07487842098607429979de6d16f71d9, type: 3}
+    Text: "...Listen, I really didn\u2019t mean to break into your headquarters like
+      that. And to uh.. interrupt your\u2026 evening. I have a problem that I need
+      some help with.\r\n"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 944720678a274124491ed95364a3e5e7, type: 3}
+    Text: "You see, Me and Jeanne- \r"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: afb0339c13e905549b7ee288cdd9b0f8, type: 3}
+    Text: "Jeanne? Your fancy aristocrat Ex secretly raiding all of Canch\xE1nchara
+      right now? "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 21a46668aec37a8428b87aa62d2af8b2, type: 3}
+    Text: You know her?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 827d26addc1963146871d9ad259179fa, type: 3}
+    Text: Pfft, yeah, every self respecting criminal mastermind does? Also, hello,
+      do you even remember what my whole deal is? Info gathering is kinda my thing.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 8d0db4e850f504047bba7fee5c435f08, type: 3}
+    Text: I see. Basically, I need you to get me some intel on Jeanne-
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: facb675427e82494f8b601fa4761fb27, type: 3}
+    Text: "Ah- easy. Ginger orphan heir to some apparent family fortune. Don\u2019t
+      know what that\u2019s about, though- can\u2019t find anything. Squeaky clean
+      record, officially. Has freckles, looks scary. "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 5a4526f7a6edc924099423f3f143fc03, type: 3}
+    Text: "I know about the freckles, ok?  I need info on where she\u2019s heading
+      next."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 26ebf91aab605e8449c91c9a9ac72bef, type: 3}
+    Text: Oh! Ok. Mh-mh.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 7a21ee99314844f41b08bf28620da6a6, type: 3}
+    Text: "I can\u2019t let her get away with what she\u2019s done to me. That\u2019s
+      why I need your help."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 280e2017f3276b249b23779958923365, type: 3}
+    Text: Mhhh-mhh...
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 944720678a274124491ed95364a3e5e7, type: 3}
+    Text: "...Listen, I know we\u2019ve been through some stuff together, and maybe
+      it\u2019s inappropriate for me to ask, especially so suddenly, but maybe we
+      could reconnect, and you could help me in finding some more informati-"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: bf01b129917965c428ba8f77dd9b6e7b, type: 3}
+    Text: "BOOM! Got it. So: The Gladstone gala next week. She\u2019s going."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 7e0b1c0f31e13d74c9dc7017928445b5, type: 3}
+    Text: I- what?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 79a6152e10008444ba39a112ad49ad19, type: 3}
+    Text: "Gala. To celebrate Abigail Gladstone. You know, the president? Next week.
+      Jeanne, remember? High society event? All of Canch\xE1nchara\u2019s elite is
+      gonna be there- Jeanne, too.  "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: afb1909b47bf0064ab6c853ef6ca4748, type: 3}
+    Text: "Geesh, you\u2019re slow. Here, check this out- she accepted this invitation
+      letter a while back."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 32d365541cd7c5248a83743af60b4846, type: 3}
+    Text: 'Gladstone? Just why on earth would Jeanne want to celebrate them? '
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: f0c1d04d38a569d4d88d560e83a1b1e3, type: 3}
+    Text: "Mhh\u2026 no clue. Maybe she\u2019s a fan?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 12870be9a527eb944ba07bd26efc0b87, type: 3}
+    Text: "...Most definitely not. Jeanne must be on to something, and no matter
+      what her objective is, I can\u2019t let her succeed. I\u2019ll just have to
+      find a way into the event and figure out what she\u2019s trying to do."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 4d4b64d413d04274bba9ff53cb2fac02, type: 3}
+    Text: "You\u2019re gonna go in there without a plan? I mean, ok, actually, yeah.
+      That makes sense. That\u2019s a Vin thing, I guess."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: daed73d70d147bb46916571ee8604dd8, type: 3}
+    Text: "It\u2019s called improvisation, and it\u2019s my specialty."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: e3bdf5d90acfa00478a01ce6d2ecd4cd, type: 3}
+    Text: No plan- sure. No invitation? NOPE. Not gonna work.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: a3036548409dee3418e9f940b2f1512c, type: 3}
+    Text: "Invitation? Can\u2019t you fake one for me?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: acee98dcbd93fb941bd0acfbedb3845a, type: 3}
+    Text: "No? Haha. I\u2019m a hacker, not a con-artist. Can\u2019t do that- you
+      need to be on the list to get one. "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: bc268f6f0e672cb40a304573e9f3fa30, type: 3}
+    Text: 'Mh... I think I know just who to ask. '
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: f88405715ca8517418a89c9119d8da2d, type: 3}
+    Text: Thank you for your help, Phib. Would you come along?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 9eacd58bbe1587046a88e551e08a3e5c, type: 3}
+    Text: "WAIT- uh, you\u2019re leaving? Now? Uh, with me? "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 77750713c9a5b914e95d0f8df2a521cf, type: 3}
+    Text: "I\u2019d love to have you. If I am to take down Jeanne, then I need all
+      the help I can get\u2026 and right now, my plan- if you can call it that- is
+      to get her off her high horse. And, well\u2026 I can\u2019t imagine a better
+      way to get back at her than to make her jealous. "
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: baf814df6fa12c54cacced83ab5ed2d2, type: 3}
+    Text: So I want to join forces with some of my most talented, devious and good
+      looking exes. You in?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 1cbdc4e782ac5cb4e9a04e33b9009801, type: 3}
+    Text: "Actually, YEAH! Sure. So, invitation, right? I\u2019m coming. I can be
+      your \u201Cplus one\u201D? You know. Business stuff. For my vlogs."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: e3363329197a6574eaec5d7363dd4e15, type: 3}
+    Text: "Are you really sure you want to follow me on my mission to sabotage my
+      ex\u2019 girlfriend\u2019s crime spree? That\u2019s a huge commitment, and
+      I can\u2019t make any promises it\u2019ll go alright."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 313e7220872328741b8aaaa013e9d9c6, type: 3}
+    Text: "Commitment? Nah. I\u2019m just here for the footage? If you can get me
+      into that event, too- WHOO, man. I can get exclusive shots of Jeanne- doing--
+      cool shit with the president,  probably. My views are gonna SKYROCKET. "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: b9548049f8ec7a54bac5fa963c8ac5aa, type: 3}
+    Text: "Mh. I guess I wouldn\u2019t mind a competent friend at my side-"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 3734b9d899a364b4c89154af36fc06a8, type: 3}
+    Text: "Especially not if they\u2019re as handsome as you. So, let\u2019s get
+      going."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 7ceb21bd6023ba045aad9af30622956a, type: 3}
+    Text: "Let me just grab my cam and my rollerblades and then I\u2019ll be ready
+      to go!"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1

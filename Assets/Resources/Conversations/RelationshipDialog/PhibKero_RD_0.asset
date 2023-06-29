@@ -1,0 +1,376 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87e815090042d34f8ee4c8e8c33cb82, type: 3}
+  m_Name: PhibKero_RD_0
+  m_EditorClassIdentifier: 
+  ConvoName: 
+  Textboxen:
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Mhpf. Mhhh- Mh.
+    ImageL: 0
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Yo. Be more quiet. I\u2019m trying to work over here. And don\u2019t spill
+      any, you hear me? I ain\u2019t cleaning it. "
+    ImageL: 3
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Wow wowowow! When did you come in? I thought you were- like- smashing stuff,
+      somewhere.
+    ImageL: 3
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Got done smashing stuff, now I\u2019m working. Been here for a minute. "
+    ImageL: 3
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "You sure? I think I\u2019d have noticed! Mhh... mhpf. Nothing escapes
+      me, ya know? And you\u2019re hard to miss, miss!"
+    ImageL: 3
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Pft. I\u2019m not a \u201CMiss\u201D. Call me Keroscene. I\u2019ll carry
+      your skinny ass out of the crossfire when shit goes down, so remember the name."
+    ImageL: 3
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Now eat quieter, and don\u2019t spill any."
+    ImageL: 3
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "But Kerosceeene! I can\u2019t! It\u2019s chips- they\u2019re- mhh! So
+      good! Want some? I got- mhh, some salsa here an- uh, strawberry sugar blast
+      soda-"
+    ImageL: 3
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "No. Be quiet. Don\u2019t spill."
+    ImageL: 3
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Yooo, ok, ok, I see you. I see. A little bossy, no? Can\u2019t we share
+      this space like the friends we are?"
+    ImageL: 3
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "...You\u2019re leaving crumbs everywhere, and you ain\u2019t my friend,
+      \u201CPhineas\u201D."
+    ImageL: 3
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Can\u2019t a man enjoy some crumbs? Mhh? Miss Alexandra Foster? "
+    ImageL: 3
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: I- what? What did you say?
+    ImageL: 3
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "That\u2019s your name, no? Alexandra Foster. "
+    ImageL: 3
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Where did you-
+    ImageL: 3
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Internet.
+    ImageL: 3
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: But I thought I del-
+    ImageL: 3
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I\u2019m a hacker, remember, Alexandra? A genius hacker. That's me."
+    ImageL: 3
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Don\u2019t call me-"
+    ImageL: 3
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Ok, ok! I won\u2019t! Do you like \u201CBossy Fossy\u201D better? I like
+      that one. Because you're being bossy with the crumb situation, miss Foster."
+    ImageL: 3
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "\u2018Cause you\u2019re gonna get crumbs all over your shit, and even
+      my shit!"
+    ImageL: 3
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: What else did you find about me online? Huh? Answer!
+    ImageL: 3
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Mhh, I don\u2019t know. But maybe I liked what I saw?"
+    ImageL: 3
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: What did you JUST say to me?
+    ImageL: 3
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Nothing? I didn\u2019t say anything? Anyway! I\u2019ll stop calling you
+      Bossy Fossy if you sto-"
+    ImageL: 3
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "-....Ah, shit! Got crumbs on my tablet. Let me- No! Argh! There\u2019s
+      soda on my- ohhhh fuck, no no no\u2026"
+    ImageL: 3
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "...You didn\u2019t make that thing waterproof? "
+    ImageL: 3
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "What? No! Pfft, \u201Cwaterproof\u201D! "
+    ImageL: 3
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "You really are a \u201Cgenius\u201D, huh? What if you get stuck in the
+      rain?"
+    ImageL: 3
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Actually, scratch that. You don\u2019t go outside."
+    ImageL: 3
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I- no no, I do! I totally do! I do meet and greets all the time! And\u2026
+      parcouring!"
+    ImageL: 3
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "...Ugh! It won\u2019t turn on anymore! My life is ruined!"
+    ImageL: 3
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Told ya.
+    ImageL: 3
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'I- wow, ok. Whatever. '
+    ImageL: 3
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "You know what? I\u2019m leaving. I\u2019m out. I\u2019m out. I have places
+      to be and stuff. \r\n"
+    ImageL: 3
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: ...Yo. Take your thing with you. Ya might need it.
+    ImageL: 3
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'Mh? What? My tablet? The protoTab? Pft. '
+    ImageL: 3
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Keep it.  I have hundreds. Not a big deal. I don\u2019t even care about
+      it. See? Haha. This is me not caring about it."
+    ImageL: 3
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Dude- I don\u2019t want the tablet. Take it, it\u2019s still fixable! "
+    ImageL: 3
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "...And don\u2019t leave without cleaning all your shit! Hey! Wait up!"
+    ImageL: 3
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Mhh? Haa? Can\u2019t hear you, sorry!"
+    ImageL: 3
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I\u2019m already rollerblading awaaaayy! Goodbyeee~!"
+    ImageL: 3
+    FocusL: 0
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "...wow. V\u2019s taste is awful. "
+    ImageL: 3
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0

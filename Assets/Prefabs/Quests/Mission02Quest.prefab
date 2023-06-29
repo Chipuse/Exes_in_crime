@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7734624525168593737
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4680113573256495237}
+  - component: {fileID: 6778691520716932719}
+  m_Layer: 0
+  m_Name: Mission02Quest
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4680113573256495237
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7734624525168593737}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6778691520716932719
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7734624525168593737}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab7fb1cc4fae1540bf0f91d6e7aeef2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneName: Mission02
+  MissionDescription: 
+  objectiveTexts:
+  - Steal the Egg
+  - Bring the Egg outside
+  numberCharacters: 2
+  usableCharacters: 0100000002000000
+  CardIDToSteal: 43
+  missionSelect: {fileID: 11400000, guid: b043e941becdbaf469127a3992541769, type: 2}
+  missionStart: {fileID: 11400000, guid: 5d92bdbb70f693e4a97e84ffeed09547, type: 2}
+  missionEnd: {fileID: 11400000, guid: 3bc1595ea520ac1499939610c6bc4fca, type: 2}

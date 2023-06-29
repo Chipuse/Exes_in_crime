@@ -1,0 +1,339 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87e815090042d34f8ee4c8e8c33cb82, type: 3}
+  m_Name: PhibSam_RD_0
+  m_EditorClassIdentifier: 
+  ConvoName: 
+  Textboxen:
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Phib, sweety?
+    ImageL: 4
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Mh? Yeah? What?
+    ImageL: 4
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "...Would you mind maybe just being a little more quiet when, ah\u2026
+      doing whatever it is you're doing on that computer?"
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Pffft, \u201Ccomputer\u201D? What is this, the 1990s? It\u2019s a protoTab!"
+    ImageL: 4
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "A ProtoTab? And\u2026 you\u2019re incapable of using such a device more
+      quietly?"
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Haaa? But I can work way better when tapping on my prototab loudly! Like,
+      tap tap! Immediate feedback. It makes editing so much easier! Really icy stuff.
+    ImageL: 4
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: ...It makes your computer freeze?
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: What? What now?
+    ImageL: 4
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Did it\u2026 freeze? Because I believe you just said tha-\r\n"
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Bwahahaha! Wow, no no no! I said \u201Cicy\u201D like \u201Ccool\u201D
+      or \u201Cfresh\u201D."
+    ImageL: 4
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "So it merely cools down? I don\u2019t understand. "
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "No, that's- well, actually, yeah, sure. That\u2019s what that means! The
+      \u201Ccomputer cools down\u201D when I smash the keys! See this right here?
+      Cooling system. Advanced stuff, sponsored. Disperses cryo-fluid. The flow on
+      that duderino is insane.\r\n"
+    ImageL: 4
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "The what of the\u2026 what-"
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Yup. Keeps my boy chilled. This button? Insta live function, for when things
+      get spicy. Adds a dog filter too if I want it to. Boom. Instant dog.
+    ImageL: 4
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Why would you need to filter a d-
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'This switch? '
+    ImageL: 4
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Yeets a distress signal to all my Phibians across the globe. And when times
+      get stormy, I got my handy dandy Copyright Diffuser right on hand. Boom!
+    ImageL: 4
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: ...I physically cannot comprehend the words you're speaking.
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Haha! I know, I know. It\u2019s fine, Sammy, forget about it! No worries!
+      You\u2019re just a little too old to know all that!"
+    ImageL: 4
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: I- ...excuse me? What did you say?
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Ah -I didn\u2019t say anything?"
+    ImageL: 4
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Did you just call me \u201Cold\u201D?"
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: No? Maybe you misheard me.
+    ImageL: 4
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Maybe I did? Come a little closer. Let me hear it again.
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I didn\u2019t say- wait, what now?"
+    ImageL: 4
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: I have no issue letting you whisper those words into my ears. If you dare,
+      of course.
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Wait- what? What? I- uhm, that\u2019s\u2026"
+    ImageL: 4
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Is everything alright? Your cheeks are flushed.
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "No they\u2019re not!"
+    ImageL: 4
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I can see them right in front of me, Phib.  Are you feeling a bit hot,
+      perhaps? Is it because you\u2019re warming up to me? Or because we\u2019re
+      this close?"
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: I uhm- I actually- I have an appointment later, so- let me just-
+    ImageL: 4
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Why are you so stressed, mhh? Maybe you\u2019re a little too inexperienced,
+      Phib. Let me help you relax. Do you want to work up more of a sweat with me?
+      Or do you think we should cool you down a little first? "
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I have some cooled champagne in the back, if you want. Come on. Tell me.
+      I\u2019m all ears."
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Sooo about my appointment-  I\u2019m actually late, so uhm-"
+    ImageL: 4
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "You don\u2019t have an appointment. I know that because you never leave
+      the house and eat ramen noodles everyday in front of that computer thing. In
+      the dark. "
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "-...dentist. Dentist appointment. Uhm, now! Right now! For my uh, teeth.
+      Somewhere\u2026 else! Goodbye!"
+    ImageL: 4
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Oh. A quick exit.
+    ImageL: 4
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: ...What an intriguing young fellow.
+    ImageL: 4
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0

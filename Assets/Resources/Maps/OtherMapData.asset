@@ -1,0 +1,386 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76dc2b9301823954dbf0cc17bb5f1b8a, type: 3}
+  m_Name: OtherMapData
+  m_EditorClassIdentifier: 
+  walls:
+  - positionKey:
+      x: -2
+      y: -3
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: 0
+      y: -2
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: 0
+      y: -4
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: -1
+      y: -4
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: -2
+      y: -4
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: -2
+      y: -5
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: -1
+      y: 0
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: 1
+      y: 3
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: 0
+      y: 4
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: -2
+      y: 4
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: -2
+      y: 3
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: -2
+      y: 1
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: -2
+      y: 0
+    assetPath: Walls/ExampleDoorClosed
+    direction: 0
+  - positionKey:
+      x: 3
+      y: 7
+    assetPath: Walls/ExampleDoorClosed
+    direction: 0
+  - positionKey:
+      x: 3
+      y: 8
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: 4
+      y: 7
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: 3
+      y: 6
+    assetPath: Walls/ExampleWindow
+    direction: 0
+  - positionKey:
+      x: 1
+      y: 2
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: 1
+      y: 0
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: 2
+      y: 1
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: 1
+      y: -3
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: 1
+      y: -4
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: 2
+      y: -5
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: 2
+      y: 0
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: 3
+      y: -3
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: 2
+      y: -4
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: 3
+      y: -4
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: 4
+      y: -5
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: 4
+      y: -3
+    assetPath: Walls/ExampleWall
+    direction: 0
+  - positionKey:
+      x: -1
+      y: 4
+    assetPath: Walls/ExampleDoorClosed
+    direction: 0
+  - positionKey:
+      x: 3
+      y: 0
+    assetPath: Walls/ExampleDoorClosed
+    direction: 0
+  - positionKey:
+      x: -1
+      y: -2
+    assetPath: Walls/ExampleWindow
+    direction: 0
+  tiles:
+  - positionKey:
+      x: 0
+      y: 0
+    assetPath: Tiles/FloorTilePrefabExample 1
+    direction: 0
+  - positionKey:
+      x: -2
+      y: 0
+    assetPath: Tiles/FloorTilePrefabExample 2
+    direction: 0
+  - positionKey:
+      x: -2
+      y: -1
+    assetPath: Tiles/FloorTilePrefabExample 2
+    direction: 0
+  - positionKey:
+      x: -2
+      y: -2
+    assetPath: Tiles/FloorTilePrefabExample 2
+    direction: 0
+  - positionKey:
+      x: -1
+      y: -2
+    assetPath: Tiles/FloorTilePrefabExample 2
+    direction: 0
+  - positionKey:
+      x: -1
+      y: 0
+    assetPath: Tiles/FloorTilePrefabExample 2
+    direction: 0
+  - positionKey:
+      x: -1
+      y: 1
+    assetPath: Tiles/FloorTilePrefabExample 2
+    direction: 0
+  - positionKey:
+      x: -2
+      y: 1
+    assetPath: Tiles/FloorTilePrefabExample 2
+    direction: 0
+  - positionKey:
+      x: -2
+      y: 2
+    assetPath: Tiles/FloorTilePrefabExample 2
+    direction: 0
+  - positionKey:
+      x: -1
+      y: 2
+    assetPath: Tiles/FloorTilePrefabExample 2
+    direction: 0
+  - positionKey:
+      x: 0
+      y: -2
+    assetPath: Tiles/FloorTilePrefabExample 2
+    direction: 0
+  - positionKey:
+      x: 1
+      y: 0
+    assetPath: Tiles/FloorTilePrefabExample 2
+    direction: 0
+  - positionKey:
+      x: 2
+      y: 0
+    assetPath: Tiles/FloorTilePrefabExample 2
+    direction: 0
+  - positionKey:
+      x: 2
+      y: -1
+    assetPath: Tiles/FloorTilePrefabExample 2
+    direction: 0
+  - positionKey:
+      x: 3
+      y: 0
+    assetPath: Tiles/FloorTilePrefabExample 2
+    direction: 0
+  - positionKey:
+      x: 3
+      y: 1
+    assetPath: Tiles/FloorTilePrefabExample 2
+    direction: 0
+  - positionKey:
+      x: 2
+      y: 3
+    assetPath: Tiles/FloorTilePrefabExample 2
+    direction: 0
+  - positionKey:
+      x: 1
+      y: 1
+    assetPath: Tiles/FloorTilePrefabExample 2
+    direction: 0
+  - positionKey:
+      x: 1
+      y: 2
+    assetPath: Tiles/FloorTilePrefabExample 2
+    direction: 0
+  - positionKey:
+      x: 0
+      y: 2
+    assetPath: Tiles/FloorTilePrefabExample 2
+    direction: 0
+  - positionKey:
+      x: 0
+      y: 1
+    assetPath: Tiles/FloorTilePrefabExample 2
+    direction: 0
+  - positionKey:
+      x: 1
+      y: 3
+    assetPath: Tiles/FloorTilePrefabExample 2
+    direction: 0
+  - positionKey:
+      x: 1
+      y: -2
+    assetPath: Tiles/FloorTilePrefabExample
+    direction: 0
+  - positionKey:
+      x: 3
+      y: -2
+    assetPath: Tiles/FloorTilePrefabExample
+    direction: 0
+  - positionKey:
+      x: 3
+      y: -1
+    assetPath: Tiles/FloorTilePrefabExample
+    direction: 0
+  - positionKey:
+      x: 1
+      y: -1
+    assetPath: Tiles/FloorTilePrefabExample
+    direction: 0
+  - positionKey:
+      x: 2
+      y: -2
+    assetPath: Tiles/FloorTilePrefabExample 2
+    direction: 0
+  - positionKey:
+      x: -1
+      y: -1
+    assetPath: Tiles/FloorTilePrefabExample 1
+    direction: 0
+  - positionKey:
+      x: 3
+      y: 2
+    assetPath: Tiles/FloorTilePrefabExample 2
+    direction: 0
+  - positionKey:
+      x: 2
+      y: 1
+    assetPath: Tiles/FloorTilePrefabExample
+    direction: 0
+  - positionKey:
+      x: 2
+      y: 2
+    assetPath: Tiles/FloorTilePrefabExample
+    direction: 0
+  - positionKey:
+      x: -2
+      y: 3
+    assetPath: Tiles/FloorTilePrefabExample
+    direction: 0
+  - positionKey:
+      x: -1
+      y: 3
+    assetPath: Tiles/FloorTilePrefabExample
+    direction: 0
+  - positionKey:
+      x: 0
+      y: 3
+    assetPath: Tiles/FloorTilePrefabExample
+    direction: 0
+  - positionKey:
+      x: -2
+      y: 4
+    assetPath: Tiles/FloorTilePrefabExample
+    direction: 0
+  - positionKey:
+      x: -1
+      y: 4
+    assetPath: Tiles/FloorTilePrefabExample
+    direction: 0
+  - positionKey:
+      x: 0
+      y: 4
+    assetPath: Tiles/FloorTilePrefabExample
+    direction: 0
+  - positionKey:
+      x: 2
+      y: 4
+    assetPath: Tiles/FloorTilePrefabExample
+    direction: 0
+  - positionKey:
+      x: 3
+      y: 4
+    assetPath: Tiles/FloorTilePrefabExample
+    direction: 0
+  - positionKey:
+      x: 3
+      y: 3
+    assetPath: Tiles/FloorTilePrefabExample 1
+    direction: 0
+  - positionKey:
+      x: 0
+      y: -1
+    assetPath: Tiles/FloorTilePrefabExample 2
+    direction: 0
+  - positionKey:
+      x: 1
+      y: 4
+    assetPath: Tiles/FloorTilePrefabExample 2
+    direction: 0

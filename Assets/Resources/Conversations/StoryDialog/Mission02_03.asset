@@ -1,0 +1,357 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87e815090042d34f8ee4c8e8c33cb82, type: 3}
+  m_Name: Mission02_03
+  m_EditorClassIdentifier: 
+  ConvoName: 
+  Textboxen:
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 4d0ef40be0f288642802b7596fc33883, type: 3}
+    Text: Back again.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: d6cb261574433b14bb08737f3fe65354, type: 3}
+    Text: "\u2026Will I ever get over those hedges?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 8d0db4e850f504047bba7fee5c435f08, type: 3}
+    Text: "If you keep at it with all the social media stuff, you\u2019ll be able
+      to afford your own hedges soon. And gates, a pool, and hounds."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 122882614c3ef3441a3b708a540effe5, type: 3}
+    Text: Mhh? No nonono, I was just saying. Will I get over them? Like, physically?
+      Do you think I could? I am a little famous for my parkouring skills, so.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: feb9fa9786ff50041a310b83cbf1d672, type: 3}
+    Text: "You can give it your best shot in case Sam\u2019s wife decides to release
+      the hounds again."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: c172ca49f0349a5478fdcd6342421948, type: 3}
+    Text: "By the way- Samantha Silver, huh? Wow. Didn\u2019t know you had a thing
+      for the dramatic type. "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 7a818318dbac96e40be425b1722980a7, type: 3}
+    Text: So you looked her up.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 7329eae4d476e814fa57e514a52ad074, type: 3}
+    Text: "Yup. I knew the name \u201CSamantha Silver'' sounded familiar. Retired
+      actress- Broadway. Also: part time criminal, apparently. Lucrative stuff. Did
+      you know? But pssst, it\u2019s a secret. "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 6b78f9f521667ab4f9b9f2d257478a05, type: 3}
+    Text: Explains all the nice hedges, though.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 93b33fb0cbe36b24bbb360521d3b04f0, type: 3}
+    Text: It really is a rich people thing.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 05d2b7ae7db8d6949a169208e511f5e8, type: 3}
+    Text: "Where\u2019d she get the idea? I mean, for crime. Isn\u2019t she a little
+      too old for that sort of stuff?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: c0c9b55993375e0409884644b871d3a6, type: 3}
+    Text: "You\u2019d do well not to underestimate her. Also, I might have been a
+      bad influence, who knows."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 5ab04d0fa2c7b8f4c91e80f4a0244d1c, type: 3}
+    Text: ...Wait, did you date a lot of criminals?
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: e7f1e46c40a454444af58f5783b319e2, type: 3}
+    Text: Only a few. Why does it matter?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 5aa50f18dcaffd74e9adf6b995a17704, type: 3}
+    Text: 'Who else is there? I thought I was special! '
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 5a4526f7a6edc924099423f3f143fc03, type: 3}
+    Text: ...no one else of note. Is there a reason why you brought up Sam?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 95ed66e186908264480c3d99439aab35, type: 3}
+    Text: 'You know her, right? So uh- any info on how she lost that arm? '
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: c45743b54a44d3c469389c1a0e3685e0, type: 3}
+    Text: "What, you, master hackerman, couldn\u2019t find anything about that on
+      the web?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: c1500d7aec958b845836b1c3646b4ebb, type: 3}
+    Text: What? Pft, no. I know. I was just wondering if you know, too.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 0fe8a5c4a36354a419a37f7807cfe0cd, type: 3}
+    Text: ...Just ask her yourself.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: ...
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 082bda47590562c48ae93252fe629e9c, type: 3}
+    Text: "...Ah, you\u2019re back. It\u2019s good to see you again, so alive and
+      well."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 8b4c485ede2e7514c910e7a00fbe748b, type: 3}
+    Text: Samantha- I have something here for you. Or uh, your wife, rather.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: cfba385277005a245a9e8e5c15be7325, type: 3}
+    Text: "-....oh. It\u2019s the\u2026wonderful fabreg\xE9 egg, which I love so
+      very much. You didn\u2019t have to go through all the trouble to get it back."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 2e5feae1758bfcb4da8ec3932b2df782, type: 3}
+    Text: 'Oh, I would go through hell and back for you. And your wife, of course. '
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 8ff0ffb0783a1ae40996dc6ac9afe150, type: 3}
+    Text: "Yes. Mary will be pleased to hear about this once she\u2019s back from
+      the cruise."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 1cbdc4e782ac5cb4e9a04e33b9009801, type: 3}
+    Text: She be cruising? Wow, vibes.
+    ImageL: 2
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: e33a4c245fc942949bd92fd7368c82f3, type: 3}
+    Text: "Ah, yes. She is in fact... \u201Ccruising\u201D, I suppose. "
+    ImageL: 2
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: d9767467452ec23499c6157fb2f24af5, type: 3}
+    Text: "Which\u2026 also leaves me here, sad and lonely. With only this empty
+      house and this- wonderful egg. "
+    ImageL: 2
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 2ac8d3bc28ba5fc4bb0995553cc57588, type: 3}
+    Text: 'We would be honored to keep you some company, Samantha. I have the perfect
+      date idea, actually- the Gladstone Gala. You, me. Maybe Phib if he can behave
+      himself. '
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 51e06f1fb92df604c8770fff3c9bb897, type: 3}
+    Text: You want to use me for my invitation letter. Is that it?
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 77750713c9a5b914e95d0f8df2a521cf, type: 3}
+    Text: "Sharp as ever, but no, not quite. I want to hire you as my crew mate.
+      Your charm can only be helpful to us, and you have a natural talent for ah\u2026
+      persuasion."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 331db84c9d3931c4aa8aeabb87e989ef, type: 3}
+    Text: I really need to get into that gala, Sam. I need you. Are you in?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: bfe5993e1e9e66e4e980c82c84e28718, type: 3}
+    Text: Mh. I was just getting bored, anyway. Count me in, then.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 9ffad4e59d89c3743aec6d4e3746eff4, type: 3}
+    Text: "WHOOAA! There we go! BAM, you\u2019re hired!"
+    ImageL: 2
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 76f6f2718a8f9104882cd42bb50c54a6, type: 3}
+    Text: "-I\u2026 very well."
+    ImageL: 2
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 39bcb1ec48da52946b5053b8985f142e, type: 3}
+    Text: "One thing: Only two of us can go. It\u2019s just one invitation, with
+      the possibility to take an extra person. I can transfer the invitation itself-
+      but one of us will stay behind no matter what, I\u2019m afraid."
+    ImageL: 2
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 557687c7c1607a0498880ba31293d3e1, type: 3}
+    Text: "Not a problem- we\u2019ll figure it out. One of us can join through the
+      intercom- ahh, we can have an intercom, right Phib?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: beefaa45077e3614e82fa5752ed98675, type: 3}
+    Text: Roger!
+    ImageL: 2
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 4d0ef40be0f288642802b7596fc33883, type: 3}
+    Text: "Let\u2019s hitch a plan together, then- I don\u2019t know what Jeanne\u2019s
+      plan is yet, but I\u2019ll make sure to ruin it once we find out."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0

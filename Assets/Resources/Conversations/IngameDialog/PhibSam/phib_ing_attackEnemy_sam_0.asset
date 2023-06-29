@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87e815090042d34f8ee4c8e8c33cb82, type: 3}
+  m_Name: phib_ing_attackEnemy_sam_0
+  m_EditorClassIdentifier: 
+  ConvoName: 
+  Textboxen:
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 6466ed719909f4b4cb9ea28e94f69f55, type: 3}
+    Text: BOOM, get cropped!
+    ImageL: 0
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: f7ba3619fedd1904b87b4d3ab1e38baa, type: 3}
+    Text: "\"Get cropped?\u201D I don\u2019t understand the meaning of this."
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0

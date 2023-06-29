@@ -1,0 +1,392 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87e815090042d34f8ee4c8e8c33cb82, type: 3}
+  m_Name: VinPhib_RD_0
+  m_EditorClassIdentifier: 
+  ConvoName: 
+  Textboxen:
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Hey Phib\u2026 you got a second for me?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Mh? Yeah, I have a second. Only a literal second, though. I\u2019m hopping
+      online in a bit."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'Got it. Phib, I just wanted to let you know that you did some of your
+      best work on our last heist, and I really enjoyed your performance.Thank you
+      for sticking with me, despite everything. '
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Awww, come on, now. You know I love performing for you! No need to thank
+      me! Really. Although I guess- Well, I don\u2019t mind the attention."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Don\u2019t you get more than enough attention now since social media has
+      taken off for you? Do you even need me still? "
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'You know I need you- but, thank you for noticing! Haha! Yeah. I hit 10
+      million Zapp App recently- Man, that was wild. The Bank Robbery Stream really
+      helped to push me to the Featured Creators Tab! '
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "But, you know. I try to stay humble. I\u2019m a little embarrassed, even.
+      I don\u2019t deserve it, really."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "It seems like a great use of your talents. We should celebrate your new
+      successes together sometime. We have a lot to catch up on... I\u2019ll give
+      you all the attention you want, and you can remind me of all your other talents.
+      Sound good? "
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Only if stealing you away for a night or two won\u2019t get me into trouble
+      with your fans, ofcourse. "
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Oh~ Great Idea! Also, don\u2019t be shy! They won\u2019t mind, you know.
+      The Phibians adore you. They went NUTS when you showed up on stream! Haven\u2019t
+      had that type of engagement in a while! They kept spamming \u201CVPN is back?!\u201D
+      in the chat. Totally insane."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: VPN?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Yup, that\u2019s our shipname, dork! Don\u2019t remember? We always had
+      it!"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I\u2026 don\u2019t recall. Please enlighten me."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Our shipname! V, Vincenzo- Phineas Anderson, P and An\u2026. Vee-Pee-Ann.
+      Get it? The fans can\u2019t get enough of it, it\u2019s everywhere."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'Oh! Also, they would LOVE it if you showed up more. And if you showed
+      more, in general. They want that. Specifically. '
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: So... that means they're not upset that I left you on read? Or do they
+      not know that I-
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: That you did what? What now? What did you say?
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: I was talking about that time when I stopped responding to your messages
+      after I-
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: That never happened, though?
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: ...I see. I guess my memory is failing me again. How do you remember it?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Ahhh\u2026 let\u2019s see."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: So. We had our last heist. Duh. You left afterwards to get some cigarettes
+      to celebrate.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: I- cigarettes?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Yes. Also duh. You got a call from your cousin Liana on the way, who you
+      hadn\u2019t spoken to in ages. Ever since her late mother\u2019s inheritance
+      ripped the family apart, to be exact."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'Then you had to drop by Italy spontaneously to take care of your sick
+      grandmother, who, as Liana informed you, had just been diagnosed with severe
+      Idiopathicity. Very sad stuff. Can you believe it? Anyway.
+
+'
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Uhm-
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: So you were in Italy, in your hometown of- uh, Florence. To make your grandmother
+      proud, you went down the right path for once and worked as both a bartender
+      and elementary school teacher, leaving your old criminal life in the dust for
+      her final few years.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Wait, a teacher? What would I even teach? And I\u2019m not from Fl-"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Art and English, obviously. But you were just a substitute. Clearly. Anyway,
+      back to the topic.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'So you stood by your grandmother''s bedside every night, until her passing.
+      Holding her hand as she slipped away into the ether. Sad stuff, still. My favorite
+      part was when you promised her you would  finally stop smoking. I legit CRIED.
+      Like, I cried. '
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Phineas, I don\u2019t even smoke!"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Yeah, that\u2019s what I just said?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Anyway, what I\u2019m trying to say is that while you were gone, you and
+      I had a very committed public online relationship, which I made official merch
+      for, and the hoodies are available on my website for 29,99$. Bestsellers. I
+      can give you a discount. Really good stuff. "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Anyway, enough of the past! You\u2019re back! Yay. My condolences though
+      for your grandma. Not so yay. Kinda ouch."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I have to admit that most of this must\u2019ve... escaped me somehow.
+      I\u2019m glad you kept track of all that for me. Very uh, kind of you. And
+      so imaginative, too."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Haha, no problem! The logs are all online if you need \u2018em.\r\nMy
+      stream is starting now though, so uh- gotta dash.\r\n"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Wait a minute, Phinea- uh, Phib, you can\u2019t just-"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "WHAT\u2019S UP everyone, Phib here, back at it again with another Zapp
+      App Story Stream! Bam bam!"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Now this is part 2 of my new 3 part special: Hip with Phib, in which I
+      tell you all about my life.\r Last time, we spoke about my championship win
+      at the international Skate-Offs! I still have the scars from my controversial
+      fall! Look- Ouch. \r\n"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Make sure to stay tuned in because later, I\u2019m going to give you some
+      exclusive insight into my set up for my next huuuge, and I mean HUGE heist
+      mission. Sponsored by the amazing Techmathics! Anyway, let\u2019s get right
+      into the story..."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "...Guess I\u2019ll try again later."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0

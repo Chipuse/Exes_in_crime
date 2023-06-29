@@ -1,0 +1,509 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87e815090042d34f8ee4c8e8c33cb82, type: 3}
+  m_Name: VinPhib_RD_2
+  m_EditorClassIdentifier: 
+  ConvoName: 
+  Textboxen:
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Phineas? I think we have something important to talk about.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Mh? Yeah, about the blueprints for our next mission, right? I put them-
+      uh, somewhere, they're already up, if you need to check them out already. They\u2019re
+      all yours."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I think you know what I want to talk about with you. It\u2019s between
+      the two of us, no blueprints involved."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Oh? Secrets? I would love to, but actually, I\u2019m busy, sooo\u2026"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Are you about to stream again?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Mh? Oh, no, no. Not at all, I\u2019m taking some time off to focus on
+      myself, just chilling, you know. So I\u2019m not streaming today, not before
+      the next mission. I\u2019m preparing myself, kind of, extensively."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Listen\u2026 I just wanted to tell you, in all honesty, that I\u2019m
+      really sorry for everything I put you through. I shouldn\u2019t have left you
+      behind the way I did, and I could\u2019ve checked in with you after I dipped."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "It wasn\u2019t right, and I didn\u2019t know how much it affected you.
+      Or rather\u2026 I guess I just wasn\u2019t thinking about it. My bad."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Ah? You leaving wasn\u2019t that bad at all, though. I mean, you had your
+      grandma to take care of, so it made sense, no?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Right, exactly. Anyhow.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I really appreciate everything you do for the team. And I want to make
+      things right. To do a good job. I won\u2019t let you down again."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Mhh\u2026"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "So, basically what I\u2019m asking is: Would you forgive me?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "\u2026"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: I mean, hypothetically, if there was something which you would technically
+      have to forgive me for, would you?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Let\u2019s see~"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: So, theoretically, right? If you did leave me, say, in a different universe,
+      without saying goodbye... and while stealing my share of the profits, then,
+      I guess... I would be pretty upset.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "You\u2019d have every right to be."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I was a real idiot back then. And to be honest, I\u2019m probably still
+      an idiot. So I\u2019ll try to be better. I can pay you back too, of course.
+      Any way you want me to, if-\r\n"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'I never cared about that. '
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "It\u2019s just that- you should\u2019ve told me you wanted out. That you
+      had other places to be. Anything. Anything would\u2019ve worked. But you just
+      disappeared without a word, and pretended like I was never even there. And
+      ignored me. Just- that hurt. "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "You\u2019re right, that was fucked up. And it was my fault. I\u2019m sorry.
+      I\u2019m not gonna do that again, promise. So please forgive me?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Mh\u2026 I\u2019ll think about it.\r"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: I will officially allow you to put a tracking device on me if it eases
+      your mind at all?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: ...as if I would wait for your approval to do something like that.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Well, that's concerning. I didn\u2019t know you woul- wait, did you already,
+      when you gave me that-"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "- OK, apology accepted! But don\u2019t do it again! Ever ever!~"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "...You got it, I won\u2019t."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "NICE! I\u2019m happy we talked about that!"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "That was such a vulnerable moment for me again. I\u2019m so glad I got
+      to share that with you!"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Me too, I feel like a got to know you a bit better just know, and I\u2019m
+      really glad that you-"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I\u2019m not talking to you?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I was talking to the Phibians? It\u2019s not always about you, Vin? "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "What do you mean? I thought you said you weren\u2019t streaming yet! Are
+      we online right now?!"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I\u2019m always online?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I\u2019m pretty sure you just said \u201CI\u2019m not streaming today\u201D?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I don\u2019t remember saying that?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: You literally just said to m-
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "LOOK! Ohhh, they LOVE you, Vin! Thanks so much, guys! Special thanks goes
+      to \u201CRebecca\u201D. Thank you for donating, Rebecca! Can I call you Becky?
+      Are you cool with that? "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Anyway! And YES, guys, VPN merch is coming back in stock shortly! Yeah,
+      I know! I know! Exciting!!
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: I feel used and exposed and I am definitely not ok with how this situation
+      is playing out right now
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Haha, yeah! We\u2019re even now!"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "We\u2019re what now?\r\n"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Oh, nothing! Wait wait wait- it\u2019s almost time for my outro! Do it
+      with me? Please?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I don\u2019t know your outro, Phib!"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "So? Can\u2019t you wing it? Isn\u2019t that what you do?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "\u2026-So uh, folks, thank you for always being so supportive during our
+      missions and everything. I\u2019ll be seeing you around, especially you, Becky.
+      Remember to stay phib-tastic! Stay cool, Phibians!"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Byyye!
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "\u2026\r\nThat was GREAT! Phib-tastic? OH. You can bet I\u2019m putting
+      that on a shirt.\r"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: So are we offline now?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Yes, we\u2019re totally offline. Why are you asking?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: I was hoping I could make it up to you in a more private setting? You,
+      me, a nice comfy spot somewhere, so we can prepare ourselves for the next mission,
+      extensively?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Ohhh\u2026 how private are we talking, here? Because\u2026 I have about
+      10000 people waiting for me to hop on OnlyPhibs soon to do an exclusive session."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "But, I\u2019m sure they won\u2019t mind you joining. I know I don\u2019t.
+      If I turn the notifications off, it\u2019s almost as if they're not even there.
+      Really. "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: ...You, me, a nice comfy spot somewhere, and 10000 onlookers?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: They tip well?
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "...I guess it doesn\u2019t sound half bad, then. "
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0

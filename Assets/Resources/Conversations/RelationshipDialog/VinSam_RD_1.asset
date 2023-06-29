@@ -1,0 +1,423 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87e815090042d34f8ee4c8e8c33cb82, type: 3}
+  m_Name: VinSam_RD_1
+  m_EditorClassIdentifier: 
+  ConvoName: 
+  Textboxen:
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Vin. There you are again- have you come for a favor, perhaps?
+    ImageL: 0
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Not at all. I came to see what you were up to.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'I thought I heard you sigh out loud, very dramatically, while throwing
+      the back of your hand up to your forehead. '
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: So, how are you doing?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Ah. Badly, I\u2019m afraid. Very badly. "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Mary and I have been fighting again- I\u2019m not quite sure why, even.
+      It\u2019s been nasty. "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'Fighting? How come? What happened? I thought she was still on the cruise.
+
+'
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Why yes, she is. We were speaking over the holophone recently, and she
+      told me she was enjoying herself on the cruise. She wants me to come along
+      soon, but\u2026 "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Vin, be honest with me, right? A cruise? With me on it? I\u2019m already
+      bored out of my mind!"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "So you wouldn\u2019t want to go with her? "
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "No, absolutely not! Stuck on a boat, in the middle of nowhere, with dozens
+      of aging, washed up bags wishing to bore me with their talk about\u2026 the
+      weather, or finance? I think not."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "It is my belief that Mary wants me to quit doing crime, and that she is
+      trying to pry me away from it by suggesting other means of passing time. She\u2019s
+      just playing a game when inviting me along. She knows I would hate it!"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I doubt that she has any malicious intentions. I mean, she\u2019s scary
+      sometimes, especially towards me, but I also know her to be a very sweet person.
+      Perhaps she\u2018s just worried about you getting into a dangerous situation
+      while at work?\r"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "No, most definitely not. She knows I\u2019m very capable, unlike others."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Was she worried when I went skydiving? When I did sword swallowing? Or
+      when I swam with sharks? I mean, yes, maybe a little bit, a healthy amount.
+      But not much, really. She was always very supportive.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Didn\u2019t she swim with you back then? When you two were splashing around
+      with sharks? I feel like I remember something along those lines."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Ok, I admit, I mostly just remember you in a swimsuit, but there was something
+      like that,  I think.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Correct. That was last summer, when Mary did her powerboat license. She
+      introduced the sharks to me. They\u2019re a new passion of mine. Of us, I would
+      say. So beautiful and serene, just like my wife."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: And scary. Just like your wife.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Precisely.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "She wasn\u2019t bothered by the sharks at all\u2026 well, sharks are very
+      peaceful creatures at heart, or so she told me. Maybe that\u2019s why she didn\u2019t
+      mind."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: I wonder if she just feels left out, then?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "You\u2019ve made me curious. What do you mean?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Well, it seems to me like she just wants to spend time with you. Maybe
+      find a new hobby together?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: I want to raid banks, Vin. And all she wants to do is visit the aquarium
+      or buy a pet turtle!
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: ...What if you raid a river bank together?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "\u2026"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Very funny, Vin. My marriage is breaking apart and you\u2019re partaking
+      in third grade word play."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "OK, ok. But- aren\u2019t you the creative one? I\u2019m sure you can find
+      a compromise, or a new hobby to do together, somehow."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Compromises do not suit me.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "But there has to be a way for you two to talk it out and make amends.
+      To be honest with you, I wouldn\u2019t want to know that you two are fighting
+      because I got you involved in crime. "
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Then pretend you do not know.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "To be honest with you, I worry that I\u2019ve already peaked in crime-
+      I might need a new diversion soon. So you can sleep deep at night knowing I
+      may not indulge in this for much longer."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Already? I know you get bored easily, but you really think that this is
+      as far as you\u2019ll go? I mean, so far, your performance has been excellent
+      in my eyes, but there\u2019s still things you could learn and improve on."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "You think that I haven\u2019t already thought this through on my own?
+      I will quit once I feel like it, while I\u2019m still on top. "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Quitting while you're still ahead... I guess I understand, but I can\u2019t
+      believe you would already be bored of the heists."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: The only thing I can never seem to get enough of is Mary.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Perhaps she doesn\u2019t feel the same way about me anymore."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Whoa whoa whoa, now you\u2019re being dramatic. Just talk to her! Tell
+      her how you feel, be honest, find some common ground! I\u2019m positive you
+      can still work something out!"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "But also, be a little careful when taking relationship advice from me.
+      I\u2019m the first to admit that I don\u2019t know what I\u2019m talking about.\r\n"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "You surely are. Perhaps\u2026 Well, we will see how things unfold from
+      here on out.\r\nThank you for your advice, Vin. I do appreciate it.\r\n"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "You\u2019re welcome Samantha."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'Was that actually good advice by the way? I just sort of said something
+      that sounded good. '
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'Of course you did. And yes, it seems like good advice. '
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Maybe I should call her again\u2026 I will do so after the next mission. "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Good idea, Sam. Good luck to you!
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0

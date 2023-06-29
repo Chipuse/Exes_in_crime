@@ -1,0 +1,380 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87e815090042d34f8ee4c8e8c33cb82, type: 3}
+  m_Name: Mission05_01
+  m_EditorClassIdentifier: 
+  ConvoName: 
+  Textboxen:
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 8c73dcbb8b7c09944b2df24e47a9c5c1, type: 3}
+    Text: "That\u2019s done. We made it out."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: b3d234ecd4cd5c84abcdb38f8a72a4cd, type: 3}
+    Text: Pheeew! I thought we were done for, but then, BAM, Kero over here hit up
+      the scene and wiped the ground with those guards!
+    ImageL: 2
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'An impressive performance, despite the lack of grace. I applaud our new
+      recruit whole heartedly.
+
+'
+    ImageL: 4
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Pft. I\u2019m not your recruit. I ain\u2019t joining you."
+    ImageL: 4
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 5467f1699dc55a94caf21b2ee3c5270c, type: 3}
+    Text: Oh, come on now, Lexy. I already told you- if we want to get into that
+      broadcasting centre, then we need-
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I don\u2019t care what you need from me. "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "You busted me out. I didn\u2019t ask for that. You didn\u2019t risk your
+      neck for me, you did it for yourself, as usual. So I really don\u2019t owe
+      you anything. I\u2019m leaving."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: " I\u2019m gonna steal some stupid lame-ass car outside, and then I\u2019ll
+      leave.\r\n"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: c1bfc6fadcc39bb42ac0812333700821, type: 3}
+    Text: "Listen, I know you\u2019re upset-"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "You don\u2019t know shit."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: c42f25c205175a740a536b0795533c1e, type: 3}
+    Text: ' -...but we really need some extra firepower for getting into the holovision
+      broadcasting facility. We need you. '
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: That is still the stupidest plan I've ever heard.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 8c09ff1f4c117764b9720d3692b52c7f, type: 3}
+    Text: "Well, it\u2019s not the best plan, but it\u2019s mine. Can I count on
+      you? "
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'Pft. No.
+
+'
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 37a7b476c6e6a8b46a0dac9996a92ff2, type: 3}
+    Text: "I\u2019ll make it all up to you, promise. Please join us."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "\u2026"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: f843eea68413620419ec3bc1f6351e27, type: 3}
+    Text: Please?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 2a919dba43941cd4aa66475e05b602f6, type: 3}
+    Text: "Pretty please? Come on, dude! We went through all that trouble- and DAMN,
+      the phibians- my viewers, right? They think you\u2019re the coolest! Please
+      stay!"
+    ImageL: 2
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "We would appreciate you joining us, Keroscene. Despite it\u2019s crudeness,
+      your support may prove to be useful to our cause, and my personal entertainment."
+    ImageL: 4
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Tsk.
+    ImageL: 4
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Fine. I\u2019ll go. But I\u2019m only going because you\u2019re gonna
+      get yourself into so much needless fucking trouble if I don\u2019t, V. And
+      you\u2019ll drag these people down with you- as always."
+    ImageL: 4
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: f48ab5ec7660b14469cd87ab0fc834cf, type: 3}
+    Text: "...So that means you\u2019re joining us then. That\u2019s something at
+      least. Thank you.\r\n"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Pft. Whatever. I\u2019ll be there."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Just don\u2019t expect me to be the getaway driver again. I\u2019m over
+      that shit. Not doing that."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 24f3d720a3c070d4aabc65c0b6dbc73a, type: 3}
+    Text: "No driving! None! We just need some \u201Cpew pew\u201D or \u201Cboom
+      boom\u201D to get in and get out!"
+    ImageL: 2
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Yeah, yeah. You can have some of my explosives. Should give you just the
+      right amount of \u201Cboom.\u201D"
+    ImageL: 2
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 60a4921362be12d4cb5adf337ab07f35, type: 3}
+    Text: "Perfect! Thank you, Lexy. You\u2019re a real lifesaver."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Don\u2019t thank me yet, and for the last time, don\u2019t call me Lexy
+      or I\u2019ll end you."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 41716656028da924b84387ed102a1b0b, type: 3}
+    Text: "...Noted! Then it\u2019s settled. "
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 576e170e658ee5d47b3dda1c8561d70b, type: 3}
+    Text: "We\u2019ll break into the Holovision centre and exchange the codes Jeanne
+      needs for national broadcasting with some junk. Then her plan is foiled- voila."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: bf01b129917965c428ba8f77dd9b6e7b, type: 3}
+    Text: 'Ah! Right. Idea for possible improvement:'
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 57a60bad78abc904c9b3d544ed4df412, type: 3}
+    Text: We could exchange the national broadcasting stick Jeanne needs with one
+      that has codes that we can track down once used!
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 21a46668aec37a8428b87aa62d2af8b2, type: 3}
+    Text: You could do that?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: f07a442e33da4c748a87c742114642b3, type: 3}
+    Text: "Pfft, I\u2019ve practically already done that! Look here- BAM!"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: c86d6a0471834734284a04175a1e104a, type: 3}
+    Text: "My tablet, right? When she uses the new codes, she\u2019s gonna broadcast
+      on my tablet only. Lets us keep track of her, and also uh, literally track
+      her. You get me?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 0238c7856cc6d764ba86ed36a1134af6, type: 3}
+    Text: "Good idea. Then we know where she\u2019s at, meaning we can head to her
+      hideout and I may stop my jealous ex girlfriend once and for all- maybe save
+      the president too while we\u2019re at it."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "One question: How exactly are we going to \u201Cstop\u201D her?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: ff5a1b7cd00f00346bcfe1da83bd2635, type: 3}
+    Text: "We\u2019ll figure that out once we get there."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: ...Of course we do.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 5aa50f18dcaffd74e9adf6b995a17704, type: 3}
+    Text: 'So:'
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: e7ef3b26767d0cf489bf52f312c540a1, type: 3}
+    Text: Break in, do the thing, track her down, uhm- improvise, profit.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 10f0829e28bcc9441a5556b86f3a3ffb, type: 3}
+    Text: "Exactly. Let\u2019s start."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0

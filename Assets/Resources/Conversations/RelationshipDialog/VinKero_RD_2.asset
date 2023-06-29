@@ -1,0 +1,387 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87e815090042d34f8ee4c8e8c33cb82, type: 3}
+  m_Name: VinKero_RD_2
+  m_EditorClassIdentifier: 
+  ConvoName: 
+  Textboxen:
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "V. You\u2019re back."
+    ImageL: 0
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Kero. How\u2019s it going?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Good. I\u2019m almost through with this lady."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Your motorcycle? Right, I remember. Last time I saw you, you were fixing
+      a leak or something.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Her name\u2019s Violette. Look:"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "420 mph, easily. Crosses 0-60 miles in 1.5 seconds, stat. Dual brake system.
+      1441 CC. Four-valve liquid-cooled engine. And I\u2019m about to give it a fresh
+      new coat of paint, too. Phib lent me his spray cans. And I got this design
+      from Sam!"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "The flames look good- the purple is pretty cool. I think it\u2019s fitting. "
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Yeah. Classic. I\u2019m excited."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "You\u2019re getting along well now with them, huh? The others, I mean."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Sure thing. We\u2019re a team. They got my back and I got theirs."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Can I be honest with you for a second?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Only a second. I ain\u2019t used to you being honest. Might be weird."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "...I was worried you\u2019d dip. "
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Dip? Me?
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Yeah, at the start. Because I got you involved in all this so suddenly,
+      and you were still mad at me. I mean, with good reason, obviously.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I ain\u2019t like that. Never done that, not about to start."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "You\u2019re right. I guess I was always the unreliable one."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Yup.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Maybe I owe you another apology.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Again? I thought we went over this.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: I worked on it more. Self improvement and all that jazz.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Lexy, I\u2019m sorry for how I treated you. I was really reckless back
+      then and I think I hurt you greatly. "
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I mean, I know I did. Because I left you behind, and never really tried
+      to make it up to you until now. I\u2019m sorry."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: What do you think?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: ...
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Pretty good apology. S tier.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "\u201CS tier\u201D sounds like \u201Cforgiveness guaranteed\u201D. "
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "We\u2019ll see about that. I don\u2019t make promises I can't keep."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'Good idea. I should try that sometime. '
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I have a lot to learn from you\u2026 maybe I need a bit more \u201CKeroscene\u201D
+      in my blood."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Maybe you do. But also\u2026 you\u2019re good, actually. "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: What do you mean?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "You\u2019re fine. I could learn some stuff from you, too. Like, when to
+      hit the breaks. Taking the scenic route once a while. Stuff like that."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'A mutually beneficial partnership, like in the old days. '
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I\u2019m just kidding, of course. Not totally like the old days. We\u2019ll
+      skip the part where I crash your car."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Got it.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "What I\u2019m saying is\u2026 maybe I need a bit more Vin in my system,
+      as well."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: You mean...?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Don\u2019t ruin it."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I won\u2019t say a thing."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "So uh\u2026 Want to take a break from work? Maybe have a smoke?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I\u2019ll save the smoke for later. See you then, V."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Ah, I got you. See you, Se-
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Don\u2019t. Ruin it."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: ...See you then, Kero.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0

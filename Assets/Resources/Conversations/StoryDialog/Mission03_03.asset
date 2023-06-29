@@ -1,0 +1,242 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87e815090042d34f8ee4c8e8c33cb82, type: 3}
+  m_Name: Mission03_03
+  m_EditorClassIdentifier: 
+  ConvoName: 
+  Textboxen:
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 10d8985d2cd11a347b90752445511d66, type: 3}
+    Text: "-There\u2019s no one here?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 0b5d84b6a18619a459dcc498e562615c, type: 3}
+    Text: "Strange. There\u2019s no trace of Abigail anywhere."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: e3bdf5d90acfa00478a01ce6d2ecd4cd, type: 3}
+    Text: Wait, over there- on the table. Did somebody lose their holo tablet? Is
+      this Miss Abby's?
+    ImageL: 2
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 79a6152e10008444ba39a112ad49ad19, type: 3}
+    Text: "No passcode required? Pfft, that\u2019s a security risk right the-"
+    ImageL: 2
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 0
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: And of course, I knew you would show up. So predictable as always, Vin.
+    ImageL: 0
+    FocusL: 0
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 863885742317bfd4f9b889bae5b20011, type: 3}
+    Text: ...Jeanne? Is that you? Come out, we need to t-
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 2fb2e99b937a655468449e8c28085281, type: 3}
+    Text: -No need to complain. No one is here to hear it. This is a recording.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 4d0ef40be0f288642802b7596fc33883, type: 3}
+    Text: Ah, of course it is.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 05caacd8e914c4449b01b4bf32680caf, type: 3}
+    Text: So you knew I was coming, and decided to ruin my evening? Tsk tsk. Shameful.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: d080d18fae1ed1b4c8b3aa8cfec41ffd, type: 3}
+    Text: I knew this was just a little too easy.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 09d297d0fe19e4043953e5ebeb45640e, type: 3}
+    Text: It was?
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 4d4b64d413d04274bba9ff53cb2fac02, type: 3}
+    Text: "Wait, what? You knew it was \u201Ctoo easy\u201D but still lead us down
+      he-"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: f4bf1cf714fdd6f428dc4ad33336eb7a, type: 3}
+    Text: -I predict that you figured I came to harm this person- and you were correct.
+      Yes, I came to kidnap the president. But- as you can see- I already did that,
+      way before the evening even began.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 75f8df1533e965449b95eb256baa00d9, type: 3}
+    Text: "Kidnap? I should\u2019ve known..."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 726cccee3248a134d86de74d2a9895f3, type: 3}
+    Text: How unfortunate for us. And for Abbygail.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 208e3182d8035b14eb142113bcbf3c04, type: 3}
+    Text: Psst! Scary lady is still talking!
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: f3cf5de3670c34e48b52bd9c79bbe374, type: 3}
+    Text: I will finally make them pay for what they did to my family. I have no
+      more time for distractions such as you, Vin.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: accd428830f6baa4da456e317d6ca03e, type: 3}
+    Text: Ouch.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 8e3ecf184ee023d468ef8e54149f416e, type: 3}
+    Text: "But, I have to admit: you do have one final use for me. I\u2019ll let
+      you take all the attention and credit for this. Just what you like, no? Should
+      be nothing new."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: b8ce84d4c6c4dce4eb0400b1b1e4cd57, type: 3}
+    Text: Double ouch.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: a59af0eb84d06184985c9fab9298c35f, type: 3}
+    Text: "Naturally that means you have to accept the consequences for this crime,
+      as well. I\u2019m sure you\u2019ll be able to figure out a way to get yourself
+      out of this mess though, Vinny."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: b23feb33c4e098248ac062c8113f6f42, type: 3}
+    Text: "\u201CVinny?\u201D\r\n"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 73ddc62437638b54f9811a8803f3bd70, type: 3}
+    Text: "...Let\u2019s not talk about it.\r\n"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: d7aed95b9fb28054eae6e9031513829a, type: 3}
+    Text: This holo tablet will destroy itself in 3 seconds. Au revoir, Vinny.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: ebbe32f54754c914682744edf285e34a, type: 3}
+    Text: Oh oh.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 41c2d2500a9a861408cba837894cf1c2, type: 3}
+    Text: Maybe we should get going. Quickly, before the alarm is triggered.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 96ca32a2ff0048746a03d723f57ea02b, type: 3}
+    Text: "Maybe we should. Let\u2019s bounce- don\u2019t let yourselves get caught
+      on the way."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0

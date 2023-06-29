@@ -1,0 +1,370 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87e815090042d34f8ee4c8e8c33cb82, type: 3}
+  m_Name: SamKero_RD_0
+  m_EditorClassIdentifier: 
+  ConvoName: 
+  Textboxen:
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Yo, you. Hand me the oilcan, will you?
+    ImageL: 3
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Mhh? Me?
+    ImageL: 3
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Uh, yeah, you. See anyone else \u2018round here? Oilcan. Now. I want to
+      finish this before I take my break."
+    ImageL: 3
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Oh dear. I would if I could, you see, but I\u2019m dreadfully busy. And
+      equally bothered by ruining my gloves."
+    ImageL: 3
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Pah. Princess.
+    ImageL: 3
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Excuse me?
+    ImageL: 3
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "You\u2019re so stuck up. I\u2019ll get the can myself."
+    ImageL: 3
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Stuck up? Me? You must mistake me for someone else. How rude. You may consider
+      apologizing.
+    ImageL: 3
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Pft. Ok then. You know what? Nevermind that. I\u2019m gonna go for a smoke."
+    ImageL: 3
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Oh? You smoke?
+    ImageL: 3
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Got a problem with that?
+    ImageL: 3
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "\u2026 I suppose you don\u2019t need me to tell you that that\u2019s bad
+      for your health, and the environment? Also, so is the oil you\u2019re using.
+      Shouldn\u2019t you consider switching to more environmentally friendly options?"
+    ImageL: 3
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "...Pft. I\u2019ll consider switching if you consider dropping the fur.
+      And don\u2019t you smoke, too?!"
+    ImageL: 3
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I don\u2019t drop my fur for just anyone. You\u2019ll have to try a little
+      harder."
+    ImageL: 3
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Besides, it\u2019s faux fur, darling. Entirely vegan. And my cigarette
+      is electric."
+    ImageL: 3
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'Fake fur. Got it. '
+    ImageL: 3
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "It\u2019s not- I said-"
+    ImageL: 3
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Jup. Heard ya. Fake like your personality.
+    ImageL: 3
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "It\u2019s vegan! If you had watched any of my interviews or done any research
+      about me, you would know!"
+    ImageL: 3
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Interviews?
+    ImageL: 3
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Yes? Interviews.
+    ImageL: 3
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'You got a side gig as a reporter? '
+    ImageL: 3
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I\u2026 No! I\u2019m Samantha Silver! I\u2019m not a reporter, I\u2019m
+      reported on!"
+    ImageL: 3
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Never heard of you.
+    ImageL: 3
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Excuse you? How is that possible? Did you never own a TV?
+    ImageL: 3
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Nah. Never. Didn\u2019t know you used to be famous."
+    ImageL: 3
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "\u201CUsed to be\u201D? How-"
+    ImageL: 3
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Never would\u2019ve had the time for TV anyway. I keep myself busy with
+      work. I gotta, you know. To live."
+    ImageL: 3
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Unlike some of us.
+    ImageL: 3
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: '...Oh, I see now. You think I never worked hard? '
+    ImageL: 3
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "How do you think I lost my arm? I\u2019m just wondering. Entertain me."
+    ImageL: 3
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Your... arm?
+    ImageL: 3
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Yes. Look. I\u2019ll strip my gloves off, just for you. Pay close attention,
+      it\u2019s a rare sight, I assure you."
+    ImageL: 3
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: ...Mh. Secret robot arm, huh?
+    ImageL: 3
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: " It\u2019s a great mystery, no? Maybe you care to solve it. Give it your
+      best shot, why don\u2019t you."
+    ImageL: 3
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "\u2026Handcrafted. Fine gears. Strengthened titanium rod core from what
+      I can tell."
+    ImageL: 3
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Masterful work. Did you make this?
+    ImageL: 3
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Who knows? But maybe you can see as to why I would rather not spill oil
+      on such a delicate contraption now.
+    ImageL: 3
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "...Mhpf. I\u2019m taking a break."
+    ImageL: 3
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "If you need me, I\u2019ll be outside. Polluting the environment and my
+      lungs. Bye."
+    ImageL: 3
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Understood. Let\u2019s hold hands some other time, then."
+    ImageL: 3
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'Mhpf.
+
+'
+    ImageL: 3
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0

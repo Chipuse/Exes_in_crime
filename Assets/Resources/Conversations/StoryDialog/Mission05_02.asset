@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87e815090042d34f8ee4c8e8c33cb82, type: 3}
+  m_Name: Mission05_02
+  m_EditorClassIdentifier: 
+  ConvoName: 
+  Textboxen:
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Mh. We were right- it really is heavily guarded, this place.
+    ImageL: 0
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: dd550627bf9b9d546898ad90750f6873, type: 3}
+    Text: Just the door alone-
+    ImageL: 2
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Pft. You already scared?
+    ImageL: 2
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 6d84d0f7130b0a540afdfdd8f82e4744, type: 3}
+    Text: "What? No. Me? Nah. It\u2019s just- you know. Lotta guards. "
+    ImageL: 2
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 0fe8a5c4a36354a419a37f7807cfe0cd, type: 3}
+    Text: "If so many are still alive, at least that might mean we actually managed
+      to come here before Jeanne. Let\u2019s use that."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "She doesn\u2019t seem to be in a rush. Will she expect us?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 864b33c23f8426249923e2c31121efb6, type: 3}
+    Text: "Probably not, but I can\u2019t say for sure. I was wrong in the past,
+      too."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: bedbf79b1ca99054a8dcef578f38d900, type: 3}
+    Text: "For now, let\u2019s just head in, exchange the usb stick inside, and get
+      out again."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Might need the extra firepower sooner rather than later.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1

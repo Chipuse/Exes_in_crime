@@ -1,0 +1,440 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87e815090042d34f8ee4c8e8c33cb82, type: 3}
+  m_Name: Mission04_01
+  m_EditorClassIdentifier: 
+  ConvoName: 
+  Textboxen:
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 29fceadff5218364aa2406f4dd2fa435, type: 3}
+    Text: So that went really great, huh?
+    ImageL: 0
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: c0880b6f92a34e54f8055641623c3c65, type: 3}
+    Text: Glad we made it out.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: e02f2492cd2f1dd40ba852569c836026, type: 3}
+    Text: "Yeah, barely! The guards were literally, like, everywhere!? And me, with
+      my squiggly noodle arms? I couldn\u2019t do anything! I almost died! Actually
+      almost died! And my camera almost broke, too!!"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: While I think that Phib is overreacting a little bit, I cannot deny that
+      the situation we ended up in was overly troubling.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: c753dae28de69cd41acab3f90a598614, type: 3}
+    Text: "\u2026I was hoping it wouldn\u2019t come to this."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: b09627ae06439ff449d261e7b8b912c5, type: 3}
+    Text: "Yeah, I mean, no one wanted it to come to this? I have bruises on my midriff-
+      and that\u2019s my best feature! Well, maybe, I don\u2019t know, that\u2019s
+      what my followers say, anyway."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 116e37a11ff39d24daa34ddf3449c292, type: 3}
+    Text: "Also, I didn\u2019t get ANY footage with the prez? What a junked evening!"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "..what a, uhm, questionable evening indeed. It seems we were wrong about
+      Jeanne\u2019s motive all along."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 8c09ff1f4c117764b9720d3692b52c7f, type: 3}
+    Text: "Initially, yes. But she can\u2019t hide anything from me. I know what
+      she\u2019s up to, now."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Feel free to enlighten us.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 3dd72be812b92ba4698890238f2af182, type: 3}
+    Text: "Jeanne must be planning to broadcast the president\u2019s secrets, a confession
+      so to speak, to all of Canch\xE1nchara. To humiliate Miss Gladstone publically.
+      I have no doubts in my mind. "
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: d080d18fae1ed1b4c8b3aa8cfec41ffd, type: 3}
+    Text: "A national TV special, live, millions of people\u2026 "
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Way more than there were present at the party. Clever, and much more ambitious.
+      It fits her. A well suited way to take revenge.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 9eacd58bbe1587046a88e551e08a3e5c, type: 3}
+    Text: Can someone PLEASE explain what the lady is taking revenge for? I got lost.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "As I said, you\u2019re too young to remember."
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Years ago, an incredible spectacle took place on national HV. After a long
+      and rigorous search, a masterful criminal was finally found, tried, and prosecuted.
+      No matter where you went, you simply could not escape the headlines.
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "\u201CClaude Badeaux caught!\u201D  or \u201CNowhere left to turn: decade
+      long corruption finally ended\u201D. "
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 4d0ef40be0f288642802b7596fc33883, type: 3}
+    Text: 'The man was eventually forced to confess to his crimes in front of the
+      entire country, and was then thrown into prison, where he stayed indefinitely. '
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 38f74d7910361cf4da1953ccabbb86c3, type: 3}
+    Text: 'Ow! Sad fate for a criminal, I guess. '
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'Precisely. '
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'Miss Abigail Gladstone, a driving force behind the investigation, gained
+      a lot of public recognition for their work on the case. '
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Their name became synonymous with a fight for justice and a war against
+      corruption and crime, a reputation which later aided them in their subsequent
+      political campaign, and eventual election.
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: b07487842098607429979de6d16f71d9, type: 3}
+    Text: "Right, right. Back to the important part: the only thing that was left
+      of the Badeauxs after Claude\u2019s capture was the family tradition of conducting
+      extravagant heists-  and Jeanne, of course. Jeanne was left. "
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 4ed3b5ac7e552474d8205bc623e2aa45, type: 3}
+    Text: "Ah, so that\u2019s her deal! I get it, now. That explains a lot- so she
+      rebranded after her daddy\u2019s takedown to continue the crime part in secret,
+      yeah?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 944720678a274124491ed95364a3e5e7, type: 3}
+    Text: You could call it family pride. She has a lot to live up to. I mean, had,
+      anyway.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 67cfcdc0fdf0da643a9050d8de9c3c64, type: 3}
+    Text: BOOM! Got it. I get it. I got it.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "And you think Jeanne is now planning to air out the president\u2019s dirty
+      laundry, whatever that may be, on holovision?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 66fc66ae8bc16e8438989947f5bbab78, type: 3}
+    Text: "Absolutely. She\u2019s gonna hack into the national holovision broadcasting
+      facility, I\u2019m sure of it."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 43bcecc50b875314584167b3b47d86fd, type: 3}
+    Text: "Ok, BAM! Easy! I mean- actually, that\u2019s not easy. You can\u2019t
+      just \u201Chack\u201D into that! Trust me, I tried- the reach, you know? Great
+      for shoutouts. "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 5910c5bbe11f1aa419520e26afe6792f, type: 3}
+    Text: "But- That\u2019s like, the most technologically advanced and most heavily
+      guarded facility on the entire island!"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "If you can\u2019t do it, then how would Jeanne go about this?"
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: b09627ae06439ff449d261e7b8b912c5, type: 3}
+    Text: "From what I know, there\u2019s these codes- ah, encrypted stuff. You need
+      \u2018em to broadcast on a national level, but they\u2019re totally off the
+      virtual grid. They only exist as a physical object, like, on a stick, somewhere
+      in the facility itself."
+    ImageL: 4
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: c8f86d22ea825394e82b392fc650649e, type: 3}
+    Text: 'Who still uses sticks?! Anyway, you can''t hack that. '
+    ImageL: 4
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: d12784bd694be5948ac572d99f0079ab, type: 3}
+    Text: So you have to get inside the facility first and get the codes before you
+      can broadcast anything...In that case, we just need to-
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Please don\u2019t say \u201Cimprovise\u201D."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 518ec1c16f65e3c498bd7a7cc8832184, type: 3}
+    Text: "\u2026physically break into the national holovision broadcasting facility
+      before Jeanne does, to switch out the codes. Then her plan would be foiled."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: ee790549838092e4c833e2f10a0e8cde, type: 3}
+    Text: "Uhm, again, right? The part about the facility- uhm, being heavily guarded?
+      Can\u2019t do that. Just the front door alone- no way. You\u2019d need to tear
+      it down somehow- and, you know. Noodle arms. Remember?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: I agree with Phib. Physical labor does not suit me very well, either.
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 24f3d720a3c070d4aabc65c0b6dbc73a, type: 3}
+    Text: "YEAH! We need someone or something to go \u201Cpew pew\u201D or \u201Cpow
+      pow\u201D! I don\u2019t want to get stuck between a bunch of angry looking
+      guards again!"
+    ImageL: 4
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 73ddc62437638b54f9811a8803f3bd70, type: 3}
+    Text: Mhpf.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 944720678a274124491ed95364a3e5e7, type: 3}
+    Text: "I was hoping it wouldn\u2019t come to this, but I guess there\u2019s no
+      other way."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: fc5d98bdcd647994abb10d998ab2b0ef, type: 3}
+    Text: "Phib- the prison. You know it, right? Ever had a look at it\u2019s security
+      measures?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: c8c38a9730e71f147885667780de229c, type: 3}
+    Text: "Ahhh- Prison? Here? Yeah, sure, I\u2019m aware. Are we turning ourselves
+      in? "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: I would rather not.
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: c438abc4cbdbb404ab4ef74d851f6a93, type: 3}
+    Text: "Yeah, no, that\u2019s not great content."
+    ImageL: 4
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 1871bb35491e747479c845c1426ece3f, type: 3}
+    Text: "We aren\u2019t turning ourselves in, we\u2019re busting someone out."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Whomst?
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 9c62e27d7510f1a4a9b839b344e115b0, type: 3}
+    Text: "You\u2019ll see when we get there. Get ready- we\u2019re about to take
+      a long boat ride to a cozy little prison just off the coast called Alcanch\xE1nchatraz."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0

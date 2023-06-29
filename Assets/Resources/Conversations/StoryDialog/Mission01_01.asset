@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87e815090042d34f8ee4c8e8c33cb82, type: 3}
+  m_Name: Mission01_01
+  m_EditorClassIdentifier: 
+  ConvoName: 
+  Textboxen:
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: f843eea68413620419ec3bc1f6351e27, type: 3}
+    Text: "This place looks different from when I last saw it. I hope he still lives
+      here\u2026 and I hope he can help me find Jeanne."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 35c33ebb6f13f784f8be7d1c6d8ec7a2, type: 3}
+    Text: "Where\u2019d I put my keys? Here, this should wo- wait, where\u2019s\u2026
+      the lock? Ugh, Phineas, come on. Is there no doorbell? Wha-"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: bad165a551716ad46b1fc42e03122b45, type: 3}
+    Text: PHINEAS? HELLO?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 6
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Identify yourself.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 21a46668aec37a8428b87aa62d2af8b2, type: 3}
+    Text: "Ah.\r\nMysterious robot voice. Of course.\r"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 6
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Identify yourself.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: f843eea68413620419ec3bc1f6351e27, type: 3}
+    Text: "Hey, uh, the name\u2019s Vin- I know Phineas. We\u2019re uh- ...close."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 6
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Unknown presence detected. Lasers activated.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 5cc90aee20acc4840af00f05f78cb023, type: 3}
+    Text: Lasers?! Since when-
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 3a792d46d1f7db1408c2bc2e3efa82c0, type: 3}
+    Text: ARGH!
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 6
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "\u2026\r\nIdentify yourself.\r\n"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 6aedc10f4429f7344964ac7221da0f8d, type: 3}
+    Text: "Ugh, whatever. Guess I\u2019ll have to get in the old fashioned way. He\u2019ll
+      forgive me, I\u2019m sure.\r \n"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 8c73dcbb8b7c09944b2df24e47a9c5c1, type: 3}
+    Text: "If I remember correctly, there should be a window in the back- I\u2019ll
+      go check that.\r"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0

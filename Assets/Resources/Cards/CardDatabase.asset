@@ -1,0 +1,2656 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97acc9c3b46340b4b890397001ee6c5e, type: 3}
+  m_Name: CardDatabase
+  m_EditorClassIdentifier: 
+  cards:
+  - ID: 0
+    Name: Dagger
+    RequType: 0
+    RequAmount: 2
+    Cost: 2
+    Type:
+    - Metal
+    - Illegal
+    Slot: 1
+    DescriptionText: Hit var1 enemies, for var2 Damage
+    FlavorText: neat stuff - Keroscene
+    CardPool1: 0
+    CardPool2: 1
+    Variables: 01000000010000000400000005000000
+  - ID: 1
+    Name: other Cardo
+    RequType: 1
+    RequAmount: 0
+    Cost: 1
+    Type:
+    - Smooth
+    - Sexy
+    - Heavy
+    - Magnetic
+    Slot: 2
+    DescriptionText: a card
+    FlavorText: neat card
+    CardPool1: 3
+    CardPool2: 2
+    Variables: 
+  - ID: 2
+    Name: thhirdcardo
+    RequType: 2
+    RequAmount: 1
+    Cost: 0
+    Type:
+    - Sexy
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 2
+    CardPool2: 0
+    Variables: 
+  - ID: 3
+    Name: blablabla
+    RequType: 3
+    RequAmount: 10
+    Cost: 0
+    Type: []
+    Slot: 3
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 5
+    CardPool2: 0
+    Variables: 
+  - ID: 4
+    Name: 
+    RequType: 4
+    RequAmount: 5
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 5
+    Name: 
+    RequType: 5
+    RequAmount: 1
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 6
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 7
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 8
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 9
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 10
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 11
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 12
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 13
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 14
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 15
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 16
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 17
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 18
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 19
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 20
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 21
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 22
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 23
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 24
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 25
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 26
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 27
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 28
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 29
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 30
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 31
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 32
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 33
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 34
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 35
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 36
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 37
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 38
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 39
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 40
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 41
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 42
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 43
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 44
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 45
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 46
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 47
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 48
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 49
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 50
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 51
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 52
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 53
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 54
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 55
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 56
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 57
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 58
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 59
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 60
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 61
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 62
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 63
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 64
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 65
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 66
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 67
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 68
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 69
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 70
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 71
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 72
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 73
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 74
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 75
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 76
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 77
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 78
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 79
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 80
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 81
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 82
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 83
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 84
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 85
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 86
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 87
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 88
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 89
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 90
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 91
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 92
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 93
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 94
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 95
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 96
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 97
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 98
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 99
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  - ID: 100
+    Name: 
+    RequType: 0
+    RequAmount: 0
+    Cost: 0
+    Type: []
+    Slot: 0
+    DescriptionText: 
+    FlavorText: 
+    CardPool1: 0
+    CardPool2: 0
+    Variables: 
+  cardObjs:
+  - data:
+      ID: 0
+      Name: Dagger
+      RequType: 0
+      RequAmount: 2
+      Cost: 2
+      Type:
+      - Metal
+      - Illegal
+      Slot: 1
+      DescriptionText: Hit var1 enemies, for var2 Damage
+      FlavorText: neat stuff - Keroscene
+      CardPool1: 0
+      CardPool2: 1
+      Variables: 01000000010000000400000005000000
+    prefab: {fileID: 0}
+  - data:
+      ID: 1
+      Name: other Cardo
+      RequType: 1
+      RequAmount: 0
+      Cost: 1
+      Type:
+      - Smooth
+      - Sexy
+      - Heavy
+      - Magnetic
+      Slot: 2
+      DescriptionText: a card
+      FlavorText: neat card
+      CardPool1: 3
+      CardPool2: 2
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 2
+      Name: thhirdcardo
+      RequType: 2
+      RequAmount: 1
+      Cost: 0
+      Type:
+      - Sexy
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 2
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 3
+      Name: blablabla
+      RequType: 3
+      RequAmount: 10
+      Cost: 0
+      Type: []
+      Slot: 3
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 5
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 4
+      Name: 
+      RequType: 4
+      RequAmount: 5
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 5
+      Name: 
+      RequType: 5
+      RequAmount: 1
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 6
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 7
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 8
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 9
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 10
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 11
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 12
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 13
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 14
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 15
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 16
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 17
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 18
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 19
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 20
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 21
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 22
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 23
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 24
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 25
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 26
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 27
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 28
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 29
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 30
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 31
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 32
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 33
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 34
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 35
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 36
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 37
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 38
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 39
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 40
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 41
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 42
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 43
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 44
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 45
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 46
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 47
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 48
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 49
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 50
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 51
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 52
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 53
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 54
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 55
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 56
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 57
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 58
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 59
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 60
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 61
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 62
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 63
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 64
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 65
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 66
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 67
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 68
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 69
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 70
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 71
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 72
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 73
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 74
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 75
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 76
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 77
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 78
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 79
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 80
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 81
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 82
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 83
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 84
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 85
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 86
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 87
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 88
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 89
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 90
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 91
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 92
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 93
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 94
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 95
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 96
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 97
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 98
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 99
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}
+  - data:
+      ID: 100
+      Name: 
+      RequType: 0
+      RequAmount: 0
+      Cost: 0
+      Type: []
+      Slot: 0
+      DescriptionText: 
+      FlavorText: 
+      CardPool1: 0
+      CardPool2: 0
+      Variables: 
+    prefab: {fileID: 0}

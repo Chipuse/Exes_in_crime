@@ -1,0 +1,528 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87e815090042d34f8ee4c8e8c33cb82, type: 3}
+  m_Name: Mission06_02
+  m_EditorClassIdentifier: 
+  ConvoName: 
+  Textboxen:
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 1127eea5ab378464cad9145c7f499881, type: 3}
+    Text: Did you miss me?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: ...Vin?!
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 083e0ccfec6d86746a1da58bdc87dd5e, type: 3}
+    Text: 'Jeanne. Long time, no see. '
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "...So you did make it out alive.  I figured it was your fault. Interfering
+      with the broadcast- you switched the codes somehow, didn\u2019t you? Clever,
+      as usual. "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: f88405715ca8517418a89c9119d8da2d, type: 3}
+    Text: "Thank you, but I couldn\u2019t have done it without my crew."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Crew? Hah. You\u2019re not the type for a crew, Vinny. You\u2019ve always
+      been a lone wolf. And selfish, too."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: c0c9b55993375e0409884644b871d3a6, type: 3}
+    Text: Maybe I've changed. Who knows.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 295370a27f35dbe448657fccfed917fd, type: 3}
+    Text: "Or maybe I\u2019ve gathered a couple of my other ex-lovers to sabotage
+      your crime spree and take you down just to spite you, Jeanne."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "\u2026"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 0fe8a5c4a36354a419a37f7807cfe0cd, type: 3}
+    Text: 'Kidnapping the president, huh? Very grandios of you. '
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: ...Indeed. After leaving you behind, there was nowhere to go but up.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 4134d2f39a462904fbb1d412de676551, type: 3}
+    Text: "Ouch. That hurts, Jeanne. Almost as much as the president\u2019s fingers
+      must be hurting now."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: So you saw. You saw what I did to that worthless excuse of a human.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: c0880b6f92a34e54f8055641623c3c65, type: 3}
+    Text: Ripping their fingernails out- effective, sure. But I gotta say, the evil
+      laughter was unnecessary.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "It is what they deserve. After everything\u2026 that they did. To my father,
+      my family, me.\r"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "They don\u2019t deserve to have fingernails anymore. This is their reckoning.
+      \r\n"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 743381467c7bc4b4ab15c402f4682bca, type: 3}
+    Text: Right- enough about the president. Admit that I win.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: What?
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: f8c1d8797f39d8943a78ae905abc3e38, type: 3}
+    Text: Admit it. That I win. Admit it.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'No.
+
+'
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 2ac8d3bc28ba5fc4bb0995553cc57588, type: 3}
+    Text: Admit it, Jeanne. Come on.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'Ugh, fine. '
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 3f43d047abde1c44e811db59746317f0, type: 3}
+    Text: "Also, admit you\u2019re super jealous right now."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "No I\u2019m no- whatever. You win. But I won\u2019t let you enjoy it for
+      long."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I can\u2019t let you leave this place alive. "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: e268d2704a9100b4896d9ba25ed8a1f7, type: 3}
+    Text: Naturally.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "This time I\u2019ll end things once and for all. Third time\u2019s the
+      charm, no? Now\u2026 Au revoir, Vinny."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 21d0e4da444e6ee48b216791dbc97ec5, type: 3}
+    Text: "...There\u2019s no use. You\u2019ll just seem like a sore loser if you
+      do that."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: ...What?
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: ff5a1b7cd00f00346bcfe1da83bd2635, type: 3}
+    Text: "A sore loser. Do you really want people to see you like that? Everyone
+      already knows I outsmarted you, so there\u2019s no need to try and deny it."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: A sore loser?
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 0fe8a5c4a36354a419a37f7807cfe0cd, type: 3}
+    Text: Yes. On national holovision. Right now.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "\u2026"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 2b0e00a4a5a4f92468c14fb199ab7b3f, type: 3}
+    Text: "Say hello to all of Canch\xE1nchara! No no, look here- over here, into
+      this. See that? A new gadget my friends helped me make. "
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: e92fba2f2fbf3d942b5ff079df9e3995, type: 3}
+    Text: "You\u2019d never guess that they can make high definition cameras like
+      that, huh? Courtesy of my friend, Phib."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 2376c29787ba5564ba1abdbd092d8fbb, type: 3}
+    Text: 'Icy, right? '
+    ImageL: 2
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: ee556202bbad57140a76830d90c93764, type: 3}
+    Text: "Look- Keroscene even did some tinkering to give it more \u201CPow\u201D."
+    ImageL: 2
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "You\u2019re welcome."
+    ImageL: 3
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: They record in 8k.That is better than the Hollywood standard, even. Enough
+      to spot every single drop of sweat on your brow.
+    ImageL: 4
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: All of you-
+    ImageL: 4
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: You... are filming my failure?
+    ImageL: 4
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 99f48ad8d4ef8d0418b3a047d91eac8e, type: 3}
+    Text: "Nope! We\u2019re streaming! OH! The \u201Clive\u201D function was my idea,
+      by the way!"
+    ImageL: 2
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Live...?
+    ImageL: 2
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: c07d1607f688c734998c595b74b12654, type: 3}
+    Text: "You didn\u2019t think we\u2019d just let those national broadcasting codes
+      go to waste, did you?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 8b780870aeab9c742af6b22af0981c35, type: 3}
+    Text: "BAM! Exposed- guys, make sure to get this on trending! #NotMyJeanne! Cancel
+      her! Let\u2019s GO!"
+    ImageL: 2
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "...Make sure to get a good image of the sharks! They\u2019re so pale\u2026
+      and their dorsal fins clearly show they're unhealthy!"
+    ImageL: 4
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'Ladies and gentleman: Jeanne Badeaux is a villainous crone, a president
+      kidnapper, and shark abuser!'
+    ImageL: 4
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: ...Give that to me!
+    ImageL: 4
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 066bfc53217e42c458307aa2d426543d, type: 3}
+    Text: Oh, hey! Careful with the goods-
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 7eb1b8547ff5c1847be3a069c6f6f1dc, type: 3}
+    Text: AH! She ripped the camera off!
+    ImageL: 2
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Mphf, mistake.
+    ImageL: 3
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Your little game is over! Now I\u2019ll-"
+    ImageL: 3
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'That camera will destroy itself in 3 seconds. '
+    ImageL: 3
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: ...Qu'est-ce que vous avez dit?!
+    ImageL: 3
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: ARGH!
+    ImageL: 3
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 66fc66ae8bc16e8438989947f5bbab78, type: 3}
+    Text: "I gave my officer ex a call- did you know she\u2019s a police captain
+      now? Anyway, when authorities are on their way. Maybe you\u2019ll enjoy time
+      in prison- I\u2019m told the food isn\u2019t too bad."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "You were lied to. It\u2019s awful."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 6f144d0a5fad21a49b1a2644d14ea16a, type: 3}
+    Text: "Ah well. I trust you\u2019ll find a way to adapt."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: You can't do this to me, Vin!
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 0fe8a5c4a36354a419a37f7807cfe0cd, type: 3}
+    Text: I think I just did.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 058ff0d71e85cbe49a7e14d679b20d0e, type: 3}
+    Text: Au revoir, Jeanne.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0

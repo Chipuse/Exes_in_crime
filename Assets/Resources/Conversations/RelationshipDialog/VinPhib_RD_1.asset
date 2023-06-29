@@ -1,0 +1,416 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87e815090042d34f8ee4c8e8c33cb82, type: 3}
+  m_Name: VinPhib_RD_1
+  m_EditorClassIdentifier: 
+  ConvoName: 
+  Textboxen:
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Vin!
+    ImageL: 0
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Phib. What can I do for you?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "What you did- the thing you did, uh, last heist! BAM! That was SO good!
+      Can you do it again? Please? It had so much sizzle. I\u2019ll repay you in
+      kindness~ Pretty please? "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Oh, well, thank you for your kind words. If you ask nicely, maybe beg
+      a little, I don\u2019t mind doing that thing again."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I mean, you might first have to tell me what exactly I even did, but\u2026"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'You wiped some sweat off your brow, like- swoosh, and my viewers thought
+      it was the sexiest thing ever! '
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Ah- so, you captured that moment, huh? I do think I\u2019m at my best
+      when stuck in a spicy situation- and I usually look my best, too."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Totally! So uh, theoretically, if I made merch with that exact snapshot
+      on it now and the caption \u201CTasty\u201D, what would you say?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: I would say that that sounds like an accurate assessment, but in case we
+      need further verification, I'd be willing to conduct some tests with you if
+      you would like?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'Ohh... I see. Trying the certified Vin flavour again? The taste of danger.
+      I like it. '
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Buuuuuut\u2026 that means I have your blessing, right? With the shirt?
+      To make it into a special edition piece specifically, and sell it on my website
+      under the VPN merch section for immense and absolutely immoral profits?\r\n"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Why are you talking as if you already did that?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I didn\u2019t. I didn\u2019t do that. What do you mean?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "...If I go to your website right now, Phib, will I see a special edition
+      \u201CTasty\u201D shirt with my face on it?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: No, of course not.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'Alright, good to know. '
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Think I\u2019ll double check just in case."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I- uh, there\u2019s no need. My website is under construction. I have
+      to do some remodelling-"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'What is this? '
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: What is what?
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "The special edition Tasty shirt with holographic print that I\u2019m showing
+      you on my phone right now? Right next to the \u201CVPN Classics\u201D Section?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'Oh, the Classics section? That?  '
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: No, not th-
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Yeah, I updated that recently with a storytime video about how we met!
+      It was a BANGER, like, it slapped. Mad.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "A storytime about how w- Ugh, Phib. Please, for once, please, I\u2019m
+      begging you to stop."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I know, I know!! But it\u2019s really sweet and the Phibians love it.
+      Please let me keep it up?\r "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I\u2019ll trade you something nice? It\u2019s such a good story! Always
+      brings a tear to my eye."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I can\u2019t wait to hear what type of story you came up with this time.
+      Does this one involve another dead grandmother? "
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Which one? Did I say one? I meant 5. I made 5 story times about how we
+      met. It gets complicated- now, where do I start...
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Actually, It\u2019s fine, I might have just changed my mind on that. I
+      think I want to bring the conversation back to the shirt situati-"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Ok so what you have to know is that, FIRST OFF we\u2019re star crossed
+      lovers from space, my mom adores you, we do lots of arts and crafts together
+      every sunday and if anyone ever says \u201CDo you want it shaken or stirred?\u201C
+      you HAVE to respond with \u201CYou already know how I want it, baby.\u201C"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Okaay, I love some good roleplaying every now and then, don\u2019t get
+      me wrong, but right now, don\u2019t you think you\u2019re pushing it? I mean,
+      more than usual?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: No?
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I really hate having to be the responsible one here, since it doesn\u2019t
+      fit me at all- just not my style, but-"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'Not your style? Yeah, seems about right. '
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "...I never made any promises I didn\u2019t keep, and you know that."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Haha! Of course you didn\u2019t! It\u2019s all business, right? It\u2019s
+      the same for me. But this time, \r\nyou\u2019re not getting a share. I mean,
+      why would you? Just imagine, right? If I gave you anything, seriously, you
+      would just take it and leave-\r"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I mean, you would take it to go buy more cigarettes, and I\u2019m a hyper
+      responsible person, I got it together, I won\u2019t support your bad habits.
+      I\u2019m not an enabler. That stuff\u2019s crusty."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Is this about that time I- visited my sick grandmother? I didn\u2019t
+      know it was such a big deal to you! You know, it was never personal. "
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Also, Phib, for the last time, I don\u2019t smoke. "
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Yeah, I know! And you can thank me later! For real, later, because right
+      now, I have a d-a-t-e with some top tier supporters over on OnlyPhibs- I would
+      ask you to join, but things might get a little steamy, and I don\u2019t think
+      you\u2019re ready!"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Just what in the world is OnlyPh-
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "WHAT\u2019S UP everyone, Phib here, back at it again with another exclusive
+      OnlyPhibs Stream! Pew pew! Get comfortable and get ready, because I\u2019m
+      about to reveal a new side of myself which I\u2019ve never really shown before!
+      Ah, I\u2019m about to be so vulnerable!"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I\u2019m a bit shy, so please be supportive in the comments, ok? Now, 
+      let\u2019s find a nice spot to get really up close and personal~\r\n"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "...And he\u2019s off again. Great. "
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0

@@ -1,0 +1,199 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87e815090042d34f8ee4c8e8c33cb82, type: 3}
+  m_Name: Mission03_02
+  m_EditorClassIdentifier: 
+  ConvoName: 
+  Textboxen:
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 8c73dcbb8b7c09944b2df24e47a9c5c1, type: 3}
+    Text: What are you guys seeing?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: c8f86d22ea825394e82b392fc650649e, type: 3}
+    Text: "Mhh- can\u2019t see anything on the cams. I mean, I see things. People
+      talking, fancy clothes, a buffet with pudding, but not Jeanne. Also, no president."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 97f19cf1549d5754fbb907666a43a936, type: 3}
+    Text: "The presidential address isn\u2019t scheduled until later today."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 7e0b1c0f31e13d74c9dc7017928445b5, type: 3}
+    Text: Address?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 633915d6b7d5bbc46830736b0de234fb, type: 3}
+    Text: "Yes, indeed. The highlight of the evening. Abigail\u2019s- .. I mean,
+      the presidential address will take place over there, on the stage, in front
+      of the crowd. "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 524ffc7dc4020a04e9092edb559a67d4, type: 3}
+    Text: Wait, do you know miss Gladstone? Like, personally?
+    ImageL: 2
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: c2256e0c7299e3340bd1fff2ab6b6ffd, type: 3}
+    Text: Perhaps.
+    ImageL: 2
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 60c7422eac3295845bec3a6e45dc4eb1, type: 3}
+    Text: "Miss Gladstone will most likely be in the back, getting ready before their
+      debut. There\u2019s still a bit of time before that."
+    ImageL: 2
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 777c680cde21fe04d994d545c88447f1, type: 3}
+    Text: ...Miss Abby is gonna miss out on all of this pudding.
+    ImageL: 2
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: a14f34d4fddfd9a4ca8d77f81ecd966d, type: 3}
+    Text: '...Even worse. I think Miss Abby will miss out on all the pudding and
+      then be assassinated on stage, right in front of everybody.
+
+'
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 2aec2c6484076de4b92b319c45ec178b, type: 3}
+    Text: "You believe this to be Jeanne\u2019s plan? That seems overly vicious,
+      even for her."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 4d4b64d413d04274bba9ff53cb2fac02, type: 3}
+    Text: Wait, wait- do you also know Jeanne? I mean, really? Personally?
+    ImageL: 2
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: c2256e0c7299e3340bd1fff2ab6b6ffd, type: 3}
+    Text: Perhaps.
+    ImageL: 2
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: d6df6bd990edc1347b1c70c1fa16490b, type: 3}
+    Text: "...I\u2019ve always commended Jeanne\u2019s ability to hold grudges. Maybe
+      you\u2019re right, Vin."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 75f8df1533e965449b95eb256baa00d9, type: 3}
+    Text: 'I have no doubt that she plans to take revenge, here and now. In front
+      of all these people- it all makes sense now. '
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 60f42f4b582e3c54ca1ece53327d6e09, type: 3}
+    Text: Take revenge for what?! Why is nobody talking to me?
+    ImageL: 2
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: c541b2f3368239845a3a61c93a08b16b, type: 3}
+    Text: "...You\u2019re too young to remember. It was all over the news back then. "
+    ImageL: 2
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: be717ecd155ff804090df3e9537f5d11, type: 3}
+    Text: "It\u2019s a family issue, Phib. You don\u2019t have to know right now.
+      At this moment, it\u2019s our top most priority to find the president and give
+      them a warning. Or assassinate them first."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 0e53215e0f3ddfa45b3c2df2985946b3, type: 3}
+    Text: "No matter what, I can\u2019t let Jeanne have this! Let\u2019s find little
+      miss Abby before Jeanne does."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 51b239b79f7c54c47b33ac12db91c570, type: 3}
+    Text: "With the right equipment, getting into the VIP area shouldn\u2019t be
+      an issue at all. Let\u2019s see what we can do."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 57d6c6b1701575045886ee1cf209bc84, type: 3}
+    Text: "Wait- uh\u2026 can someone pick up some pudding for me on the way? No?
+      Okay..."
+    ImageL: 2
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0

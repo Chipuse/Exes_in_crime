@@ -1,0 +1,339 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87e815090042d34f8ee4c8e8c33cb82, type: 3}
+  m_Name: Mission02_01
+  m_EditorClassIdentifier: 
+  ConvoName: 
+  Textboxen:
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: b07487842098607429979de6d16f71d9, type: 3}
+    Text: "That\u2019s the place."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 6b78f9f521667ab4f9b9f2d257478a05, type: 3}
+    Text: "Whoaaa! That\u2019s super icy! She has HEDGES that are like, cut into
+      SHAPES? Who even has hedges? That\u2019s a rich people thing, man. Aren\u2019t
+      you impressed, Vin?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: e268d2704a9100b4896d9ba25ed8a1f7, type: 3}
+    Text: "Oh, I\u2019ve been here before- just once or twice. Let\u2019s ring the
+      bell."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "\u2026"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 96410c9e383253045bb4f4921077cfcf, type: 3}
+    Text: ...How may I help you?
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 9790eca972d70d14c9a077e483a5c785, type: 3}
+    Text: "Samantha- It\u2019s good to see you. How have you been?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 87e0008e9dafa7545931dd33b6ba35e0, type: 3}
+    Text: "Vin. I\u2019m very well, thank you for asking. Your friend- he\u2019s
+      new to me. I\u2019m Samantha Silver. What\u2019s your name, dear?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 7ca6e4a92e94be54b81bd18ebd0d4b72, type: 3}
+    Text: Phib, miss. Fresh to hang with you.
+    ImageL: 2
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 749aa25c450f2f34b8bcee6ed2ed5d4e, type: 3}
+    Text: "\u2026-it is\u2026 fresh indeed, I suppose. "
+    ImageL: 2
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 1c6f8173bb5efb54cb4ab8eddf639e11, type: 3}
+    Text: "So, Vincenzo. Dear\u2026 It\u2019s been a while. You look like you have
+      a favor to ask. As usual."
+    ImageL: 2
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 083e0ccfec6d86746a1da58bdc87dd5e, type: 3}
+    Text: You see right through me. Sam, I need some assistance. Jeanne, you remember
+      her? We broke up, and now I need some help.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 21aa798d4cb3f1b4fb951b8aa68dce43, type: 3}
+    Text: "Mh. My sincerest condolences. I hope you\u2019re coping well?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 756434414626a8342944d7c0c6406fc0, type: 3}
+    Text: "Oh, very well, thank you. I\u2019m trying to form a team from all my ex-lovers
+      to sabotage her next mission and take revenge, just to spite her."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 34e6b98886cd9c044ae049e53af1b273, type: 3}
+    Text: '-Coping well indeed, I see. A sound plan, too. She was always the jealous
+      type. '
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: e379ff003c2f1ed46b961549d7e1de54, type: 3}
+    Text: "Exactly. So- There\u2019s this event soon, the Gladstone Gala. Jeanne
+      will be there and I think she\u2019s planning something- something related
+      to Miss Gladstone."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 5443754bca1a3c54ea7b860d705d63ba, type: 3}
+    Text: We need an invitation to get in, and I was thinking, maybe you could-
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 0
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "-Sam, honey, what\u2019s taking so long?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: d10c31b61b6d18b44b47881f084edbc2, type: 3}
+    Text: "Ahh- It\u2019s some old friends, sweetheart. Give me a moment. "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 41c2d2500a9a861408cba837894cf1c2, type: 3}
+    Text: Vin-  Mary still holds uhm- a tiny grudge, perhaps. I would kindly advise
+      you to leave.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 51ff74db210b9c848b2f1bcf5407d3d6, type: 3}
+    Text: Grudge? What grudge?
+    ImageL: 2
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 5e7360efad73c0b428ab99ce40ff662c, type: 3}
+    Text: "Ahh- it\u2019s about the egg again, isn\u2019t it? Come on, Sam, you know
+      that thing was ugly anyway. I did you a favor."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 51ff74db210b9c848b2f1bcf5407d3d6, type: 3}
+    Text: 'Egg? What egg? '
+    ImageL: 2
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 76f6f2718a8f9104882cd42bb50c54a6, type: 3}
+    Text: "-...My personal tastes do not take priority over hers, Vin. For my wife,
+      it\u2019s-"
+    ImageL: 2
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 7
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "-\u201DVin\u201D? Don\u2019t tell me it\u2019s that man again!"
+    ImageL: 2
+    FocusL: 0
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 78a2904ab16045e418dd96d2850a946e, type: 3}
+    Text: "OH-oh. I don\u2019t know what\u2019s going on, but that lady seems angry
+      with the egg situation."
+    ImageL: 2
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 7
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "It IS him- Close the gates! GUARDS? He\u2019s back- throw him out! OUT!
+      Don\u2019t let him in! He\u2019s come to steal from my collection again! Samantha,
+      CLOSE THAT DOOR!"
+    ImageL: 2
+    FocusL: 0
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 11204d2bf7f5d4c44adb0102552bef1f, type: 3}
+    Text: ...It seems I might need to close this door.
+    ImageL: 2
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 6e1be5550a123c844a9d1143bfcbaae2, type: 3}
+    Text: -I was just about to leave, anyway. Is there still a hole in the hedge
+      behind the pool?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 230589d6deead6a43b5372ca7d47b182, type: 3}
+    Text: 'Yes, there is. '
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 9790eca972d70d14c9a077e483a5c785, type: 3}
+    Text: "I\u2019ll be taking my leave, then. And Samantha?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 3b985fe186b468c4d94558797f66e0df, type: 3}
+    Text: Yes, dear?
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: d12784bd694be5948ac572d99f0079ab, type: 3}
+    Text: "I\u2019ll come back with that goddamn egg- and then we can talk, yeah?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 2572d7dcd0c5bc74cb46d261755a25fd, type: 3}
+    Text: "Oh, ah. Well, you really don\u2019t have to- "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: cb8df108fc8b0c143b706ea352ae6c1c, type: 3}
+    Text: Au revoir Samantha. Until next time.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 726d21dfe5aef8b4e92503a95b494aea, type: 3}
+    Text: "-I mean, with the egg, just keep it, yes? I- ...We really don\u2019t need-"
+    ImageL: 0
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 06882afff79115f418053d4f173c30d7, type: 3}
+    Text: What EGG!? GUYS. Vin- whoa. Why are we running? Where are we going? Why
+      are there SO MANY guards? V- please- wait-
+    ImageL: 2
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 58d43f135f8b585468b924c2d6673ea8, type: 3}
+    Text: "Ok, come on, you didn\u2019t have to dramatically jump into the pool,
+      Vin, there\u2019s a way aroun- ow ow ow! Wait for me!! AH!"
+    ImageL: 0
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 8c67bf4d888a11f4a8291e70b51d7c51, type: 3}
+    Text: ...What a surprising turn of events.
+    ImageL: 0
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1

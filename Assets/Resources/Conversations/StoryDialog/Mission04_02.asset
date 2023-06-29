@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87e815090042d34f8ee4c8e8c33cb82, type: 3}
+  m_Name: Mission04_02
+  m_EditorClassIdentifier: 
+  ConvoName: 
+  Textboxen:
+  - Speaker: 0
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Just what in the world-
+    ImageL: 0
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 320a5cd186272ab47a934c1b904d6a1e, type: 3}
+    Text: Shhh- no time to explain. Hey, you look good- uh, prison been treating
+      you well?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 0
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: ...I- Vin, what the fuck are you-
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 35b8c7b6300e49448bf7205f7f755a4e, type: 3}
+    Text: "Anyway uhm, I need a favor- I have to ruin my ex girlfriend and I need
+      your help. Also we\u2019re saving the president I guess. Let\u2019s get you
+      out of here, sexy lexy."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "...That\u2019s Keroscene to you, you bastard! Get lost!"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 331db84c9d3931c4aa8aeabb87e989ef, type: 3}
+    Text: "I\u2019ll call you whatever you want, lexy. And I promise you that you\u2019ll
+      get to break stuff if you come with me- also, bones. You get to break some
+      bones. "
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Oh I\u2019ll make sure to break YOUR bones if you don\u2019t back off."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: f211bffcf3db9384193c2c0d97cdaa36, type: 3}
+    Text: "Ouch, someone\u2019s a little mad-"
+    ImageL: 2
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I get the feeling that they\u2019re probably entirely justified in that."
+    ImageL: 2
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 2b0e00a4a5a4f92468c14fb199ab7b3f, type: 3}
+    Text: "Ok ok ok, we can discuss that later- how about we get out now and then
+      we\u2019ll talk? Quickly, maybe- there\u2019s not a lot of time."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: ...
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Mph. Move over- I\u2019ll clear a path. And don\u2019t get in my fucking
+      way."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1

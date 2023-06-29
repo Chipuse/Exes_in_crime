@@ -1,0 +1,552 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87e815090042d34f8ee4c8e8c33cb82, type: 3}
+  m_Name: Mission0_01
+  m_EditorClassIdentifier: 
+  ConvoName: 
+  Textboxen:
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: ...
+    ImageL: 0
+    FocusL: 0
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 0fe8a5c4a36354a419a37f7807cfe0cd, type: 3}
+    Text: And there it is! Stunningly beautiful, just like you.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: ea131a84f53675a4b9eb3f86e7e0c94f, type: 3}
+    Text: Naturally.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: b29218faddb1ad747ae64975988da16f, type: 3}
+    Text: After all that stress, we can finally-
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 684d6da0bd73b9143aed1de213d3453d, type: 3}
+    Text: "Just grab the diamond and let\u2019s leave."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 4d0ef40be0f288642802b7596fc33883, type: 3}
+    Text: "...You can\u2019t let me have any fun at all, can you?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 1b8669e813347684db5ec5449fc83ed3, type: 3}
+    Text: "We\u2019re here to do our job, not to have fun."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 48fca3c84cb3c13418bd2cd53458f391, type: 3}
+    Text: Tsk tsk tsk.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: f2d1d3377e5be774896aacde4539389f, type: 3}
+    Text: Hand it over to me. I will keep it safe until we return home.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 7e0b1c0f31e13d74c9dc7017928445b5, type: 3}
+    Text: "Mh? You don\u2019t trust me with the loot, is that it?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 1ca6baca5bb3d3f4c81aa8c16065c41a, type: 3}
+    Text: Not at all. Especially not after you just almost triggered the alarm. Twice.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 557687c7c1607a0498880ba31293d3e1, type: 3}
+    Text: Pft. That was all a part of the plan, Jeanne.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 1b8669e813347684db5ec5449fc83ed3, type: 3}
+    Text: No it was not.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 209cc2b5666c8e745843609ae521de9d, type: 3}
+    Text: "I\u2019m the one who makes the plans here, Vin."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 2e5feae1758bfcb4da8ec3932b2df782, type: 3}
+    Text: "You\u2019re right, you\u2019re right. Here you go."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: baf814df6fa12c54cacced83ab5ed2d2, type: 3}
+    Text: ...And I thought we were partners in Crime. You disappoint me.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 8e3ecf184ee023d468ef8e54149f416e, type: 3}
+    Text: Now you know what it feels like.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 4d0ef40be0f288642802b7596fc33883, type: 3}
+    Text: What?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: e40ecd1ff238d29409168b100fe2af2a, type: 3}
+    Text: Disappointment.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 02ef219393230e64889dd15d3c3c6a2d, type: 3}
+    Text: "Let\u2019s quickly prepare our exit strategy, s'il vous pla\xEEt."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: a3036548409dee3418e9f940b2f1512c, type: 3}
+    Text: "...You hurt my feelings. You have to make it up to me later- maybe when
+      we watch the news on this tonight? I wonder what they\u2019ll say."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: eecdbb71ebc840a40a66f60f083f434a, type: 3}
+    Text: "You\u2019re so self absorbed. It disgusts me."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 2ac8d3bc28ba5fc4bb0995553cc57588, type: 3}
+    Text: "Aw, come on. That\u2019s what you like about me."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: dc286f9124ed5144580f3e9181839487, type: 3}
+    Text: "That glass panel won\u2019t break on its own, Vin. Please cut a way through.
+      Now."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 5191755af0727f345b81591a4762ebe2, type: 3}
+    Text: "Ok, I\u2019m on it. Keep an eye on the remaining guards for me and get
+      the parachutes ready."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: b40424360b4a86d4fa62676c97644d28, type: 3}
+    Text: "Yes. I\u2019ll keep watch."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 1527ca99c4cf8834daa2e6e7bebf9355, type: 3}
+    Text: "...There\u2019s a guard coming down the east wing."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 0fe8a5c4a36354a419a37f7807cfe0cd, type: 3}
+    Text: Good to know. What do they look like?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 1ca6baca5bb3d3f4c81aa8c16065c41a, type: 3}
+    Text: "\u2026pah."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 7ed895e8f9afd744a84a260fa09a6362, type: 3}
+    Text: "One of my exes was a policewoman, you know. They\u2019re pretty tough\u2026
+      the uniforms are a big plus. Also, handcuffs."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 684d6da0bd73b9143aed1de213d3453d, type: 3}
+    Text: Quiet, Vin. Stop it.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 9c62e27d7510f1a4a9b839b344e115b0, type: 3}
+    Text: "I\u2019m just kidding! Don\u2019t be so jealous."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 9eb1476bcbfcea84e888e7381719980c, type: 3}
+    Text: ...You have 45 seconds. Hurry.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 576e170e658ee5d47b3dda1c8561d70b, type: 3}
+    Text: More than enough time.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 3734b9d899a364b4c89154af36fc06a8, type: 3}
+    Text: "You know, we could slow down a little, give them a show. I\u2019m just
+      saying. It\u2019s better TV if we have a witness."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: f634ea6a4688ce840b6bf5d7862033de, type: 3}
+    Text: "I\u2019d rather not compromise the potential success of our mission just
+      to entertain some civilians later on."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 77750713c9a5b914e95d0f8df2a521cf, type: 3}
+    Text: "...that\u2019s why I\u2019m the fan favorite. Just a fact."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: ...
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 6f252d0d79513d74b8a1fa7878b5498e, type: 3}
+    Text: Wanna sit on the couch together and share some wine to celebrate while
+      we watch the broadcast?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 6bd44c298e385fc43a82fa873102a7eb, type: 3}
+    Text: "I don\u2019t think so. I had different plans."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 98dc8fa8e86129244a5ae4b3361cae4a, type: 3}
+    Text: "I\u2019m open to anything you had in mind."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: e92fba2f2fbf3d942b5ff079df9e3995, type: 3}
+    Text: "...Ha! Open. Let\u2019s go. It\u2019s time for a dramatic exit."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: f3cf5de3670c34e48b52bd9c79bbe374, type: 3}
+    Text: Dramatic indeed.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 6e741d5da26956d47b5642db5c636885, type: 3}
+    Text: "Vin, It\u2019s time we went our separate ways."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: e268d2704a9100b4896d9ba25ed8a1f7, type: 3}
+    Text: Agreed. Hand me my parachu- wait, what?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: dc286f9124ed5144580f3e9181839487, type: 3}
+    Text: "I can do better than this. I can do better than you. I don\u2019t need
+      you."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: e4dcb2ebd3031714794d7dee3254cc7a, type: 3}
+    Text: "If you\u2019ll excuse me, I have some important business to take care
+      of. Without you."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: cbcb0252826465c49b4a1664087c827b, type: 3}
+    Text: "You-...you\u2019re leaving?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: dd3f8129a5c886b418745be453367199, type: 3}
+    Text: "Obviously I am. I\u2019m tired of you taking all the credit for my work,
+      and I have some important family issues to attend to. I don\u2019t need you
+      dragging me down for that."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 70ae8c0b55f06d04bad1b65ff4db7b55, type: 3}
+    Text: No! Jeanne, I just want to-
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: dbd0731023dd41949bec5eb18e7505e9, type: 3}
+    Text: You should step away from the glas, for your own good.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 8e3ecf184ee023d468ef8e54149f416e, type: 3}
+    Text: "It\u2019s a long way down, with or without a parachute."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 3dd72be812b92ba4698890238f2af182, type: 3}
+    Text: "You can\u2019t! If you leave now, I\u2019ll make you pay for this!  I\u2019ll
+      find out what your plans are and I promise I\u2019ll ruin them, by any means
+      necessary!"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 583429d0acf5e3d4a91cebb3153ce6cd, type: 3}
+    Text: Sure you will.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: ae100a4b82e95214cadb694068ae80bd, type: 3}
+    Text: "You\u2019d have never gotten this far without me, and now you want to
+      take me down? Alone? I don\u2019t think so, but you\u2019re welcome to try."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 0e53215e0f3ddfa45b3c2df2985946b3, type: 3}
+    Text: "You can\u2019t leave me here! They\u2019ll get me if-"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 78354a13d694bfc40967102c7024dad6, type: 3}
+    Text: "You have ten more seconds before the guard arrives. It\u2019s more interesting
+      with a witness anyway, no?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 4d0ef40be0f288642802b7596fc33883, type: 3}
+    Text: "You\u2026"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 5
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 623fd1ff8ce6a44499514e978cebf2a0, type: 3}
+    Text: "I trust you\u2019ll find a way to improvise."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: d7aed95b9fb28054eae6e9031513829a, type: 3}
+    Text: Bon voyage, Vin.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 73ddc62437638b54f9811a8803f3bd70, type: 3}
+    Text: Jeanne, wait!!
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 9be669972e919f4418edf5101e6eadfc, type: 3}
+    Text: Huh. So this is what that feels like.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: b258907d3303c7b4388612eb9669d190, type: 3}
+    Text: ...I have to get out of here somehow! Quickly!
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 8b817fe4afcf0d34e80f7d8521e1c5f1, type: 3}
+    Text: "Jeanne, I promise I\u2019ll find you\u2026 somehow. And I will take you
+      down."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: d12784bd694be5948ac572d99f0079ab, type: 3}
+    Text: "If I have to, I\u2019ll get all of my exes in crime to do it with me."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0

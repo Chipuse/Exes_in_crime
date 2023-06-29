@@ -1,0 +1,317 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87e815090042d34f8ee4c8e8c33cb82, type: 3}
+  m_Name: Mission06_01
+  m_EditorClassIdentifier: 
+  ConvoName: 
+  Textboxen:
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 4d0ef40be0f288642802b7596fc33883, type: 3}
+    Text: Anything new?
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: e5b7f18655159bb4d966c3684d6d6a2c, type: 3}
+    Text: Nope.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "\u2026.and now?"
+    ImageL: 4
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: c8f86d22ea825394e82b392fc650649e, type: 3}
+    Text: Ah, no. Still nothing. Nothing on my tablet.
+    ImageL: 4
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Mphf.
+    ImageL: 4
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "The wait can\u2019t be good for my skin."
+    ImageL: 4
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 0e53215e0f3ddfa45b3c2df2985946b3, type: 3}
+    Text: "I hope she starts soon. Come on, Jeanne. What\u2019s taking you so long?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 0
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Hello, world.
+    ImageL: 0
+    FocusL: 0
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Ah. Right on time after all.
+    ImageL: 4
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'I have an announcement to make: I have kidnapped the president. And now,
+      all of you will watch her suffer as she has made me suffer.'
+    ImageL: 4
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 944720678a274124491ed95364a3e5e7, type: 3}
+    Text: "Quick! Track her down, Phib, before she realizes anything\u2019s wrong!"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 57a60bad78abc904c9b3d544ed4df412, type: 3}
+    Text: On it!
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'She looks older than I remember, but fairly unbothered. I did not know
+      that she was your type at all.  She seems a little strict, no? '
+    ImageL: 4
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Mphf. Intense looking lady. That your style, V?
+    ImageL: 4
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: f1116315d5785d2408b0a2f18052bacc, type: 3}
+    Text: Could you people not-
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Right here: there she is. Oh- stop crying! Anyway, she\u2019s doing quite
+      badly, as you can see, and she\u2019s about to be much worse once I start my
+      sinister plan."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Damn, those heels. How can she walk in that?
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: It takes practice. Oh- is that? ...The belt! That looks like real leather.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Vin, real leather is illegal! What is she doing?!
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 5e7360efad73c0b428ab99ce40ff662c, type: 3}
+    Text: "She\u2019s a super villain, Sam! I don\u2019t think she cares about leather
+      being illegal!"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Rest assured, I do not want compensation. This is not about money. I want
+      revenge. \r\n"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "And I will get it. No matter what. With all of Canch\xE1nchara watching
+      me."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "...Is that a tank full of sharks in the background? Ugh. That\u2019s so
+      pretentious."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: That- Vin, sharks are an endangered species! Does she have a permit?
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 3855ac64b8c769d4fa178e5916dac305, type: 3}
+    Text: I- What? What do I know?! What do we care about the sharks-
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: bf01b129917965c428ba8f77dd9b6e7b, type: 3}
+    Text: 'Got it! The address- I got it. '
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: bad165a551716ad46b1fc42e03122b45, type: 3}
+    Text: "-Let\u2019s just go. Quickly."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 2
+    FocusR: 0
+  - Speaker: 5
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "First up: I will break the president\u2019s fingers, one by one. I may
+      break one off completely and feed it to the sharks. They have not been fed
+      in days."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 5
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "She doesn\u2019t even feed the sharks! Oh, the humanity!"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Wow, that IS awful. Even for her.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: I will give her a firm talking to regarding her environmental choices!
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 5443754bca1a3c54ea7b860d705d63ba, type: 3}
+    Text: "Right, right- we\u2019ll do that once we\u2019re there. Let\u2019s move-
+      we\u2019ll infiltrate her shark infested hideout and find her! Then we confront
+      her- with the breakup, and the environmental consequences of her actions- and
+      maybe even get her to apologize."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 2
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: e3bdf5d90acfa00478a01ce6d2ecd4cd, type: 3}
+    Text: YEAH! Great plan, umh- but- so uh- about the president-
+    ImageL: 1
+    FocusL: 0
+    ImageR: 2
+    FocusR: 1
+  - Speaker: 3
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Meh.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 3
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 3c5333d1c6336fa44bb062f20053bb26, type: 3}
+    Text: "We\u2019ll see about it.\r \n"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 8300000, guid: 0fe8a5c4a36354a419a37f7807cfe0cd, type: 3}
+    Text: "Let\u2019s go.\r"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 3
+    FocusR: 0

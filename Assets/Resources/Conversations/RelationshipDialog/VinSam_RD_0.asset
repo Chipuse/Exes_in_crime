@@ -1,0 +1,290 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87e815090042d34f8ee4c8e8c33cb82, type: 3}
+  m_Name: VinSam_RD_0
+  m_EditorClassIdentifier: 
+  ConvoName: 
+  Textboxen:
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Sam, good work on the last mission. Your abilities were really helpful
+      to us.
+    ImageL: 1
+    FocusL: 1
+    ImageR: 0
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Thank you, sweetheart. Although you shouldn\u2019t be surprised\u2026
+      since you already know about my \u201Cabilities\u201D."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I wasn\u2019t surprised, I was just admiring. Your dress, by the way-
+      very pretty. I think it brings out your curves nicely, if I dare say. You look
+      fantastic."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Thank you again. It\u2019s vegan silk- expensive, but sleek and smooth."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "It\u2019s worth the price."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Oh, I didn\u2019t pay for it, dear.  It\u2019s a part of Katherine K\u2019s
+      new \u201CBiconic\u201D collection. Snuck it right off the Paris runway after
+      taking it for a stroll on the catwalk. "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Mh! What a stylish execution. I expected nothing less from you. While
+      we\u2019re on that, Sam\u2026 I wanted to ask you something."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Of course you did. Why else would you come to see me, or pay me compliments?
+      Go ahead, ask away.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I was just wondering why you\u2019d be doing crime now? I know you were
+      always a little eccentric with your hobbies, but this seems a bit much. Were
+      you bored of retirement again?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Yes, very much so. I could not fathom spending another day simply \u201Crelaxing\u201D...
+      So I sought out a new inspiration."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I was just wondering why you\u2019d consider picking up crime instead
+      of a more... appropriate hobby?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "\u201CAppropriate\u201D? Like pottery, knitting or gardening?"
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I was thinking \u201Cgambling\u201D or \u201Cswinging\u201D."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "They won\u2019t let me into the casino anymore and the swinger club is
+      only open on tuesdays."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "...but not for us. They\u2019ve stopped letting us in, too. It\u2019s
+      a long story."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "You\u2019re not allowed into the casino? ...Did you win big? Wait, actually,
+      so about the swinger part-"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Gambling is really just mathematics in the end.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "To be honest, Vin\u2026 I was inspired by you. Your tenacity, your passion,
+      and your\u2026 crimes. I haven\u2019t been that intrigued by anything since
+      I played \u201CJuliet\u201D for the first time on stage."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "So you were inspired by me. I\u2019m happy to be your muse\u2026 honored,
+      even. And you weren\u2019t upset at all?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'Upset? About you, taking that dreadful egg? Not at all, I was happy to
+      see it gone.
+
+      I would take it further, even: It was what made me feel
+      the spark. The inception of my new passion.
+
+'
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "I see. You\u2019re always good for a surprise, Sam. A part of me thought
+      you\u2019d be furious."
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Furious? Why, you must not know me at all.
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "...Is there any chance I could get to know you better? \u2026.Again? With
+      or without vegan silk?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: Gladly. If you can keep us entertained, then both Mary and I- well, depending
+      on her mood, I suppose...
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "She\u2019s probably still mad at me, huh?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "She\u2019s mad at\u2026 a lot of things. Truth be told, it hasn\u2019t
+      been entirely easy between us lately- but that\u2019s a story for another day.
+      No need to bother you with that."
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "By the way, I assume that you and her both still have\u2026?"
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Ah, yes. Of course, our relationship is still fairly unconventional, if
+      that\u2019s what you\u2019re asking. So no need to worry\u2026 And we\u2019re
+      very happy, too, when Mary isn\u2019t upset about- \u2026well, anyway. "
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 4
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: 'As long as you bring some fun, some thrill... I might be able to make
+      time for you, with or without silk.
+
+'
+    ImageL: 1
+    FocusL: 0
+    ImageR: 4
+    FocusR: 1
+  - Speaker: 1
+    VoiceLinePath: 
+    Voiceline: {fileID: 0}
+    Text: "Intriguing\u2026 I\u2019ll take you up on that offer for sure. "
+    ImageL: 1
+    FocusL: 1
+    ImageR: 4
+    FocusR: 0
