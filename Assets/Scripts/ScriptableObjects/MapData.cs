@@ -18,20 +18,6 @@ public struct PositionKey
     {
         return !c1.Equals(c2);
     }
-
-    //do not use those two. I just put some override methods there so it would shut up in unity
-    //public override bool Equals(object o)
-    //{
-    //    if (o == null)
-    //        return false;
-    //    var second = o;
-    //    return second != null;
-    //}
-    //
-    //public override int GetHashCode()
-    //{
-    //    return 0;
-    //}
 }
 
 public class InvalidKey
