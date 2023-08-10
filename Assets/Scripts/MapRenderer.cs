@@ -12,7 +12,6 @@ public class MapRenderer
             return;
         if (GameManager.instancedRendering)
         {
-            Debug.Log("rendering instanced meshes");
             foreach (var item in renderData)
             {
                 if (item.Value.Count >= 1023)
@@ -21,12 +20,6 @@ public class MapRenderer
                     {
                         if (item.Value.Count < 1023 * (i + 1))
                         {
-                            /*
-                            for (int subMeshIndex = 0; subMeshIndex < item.Key.mesh.subMeshCount; subMeshIndex++)
-                            {
-                                Graphics.DrawMeshInstanced(item.Key.mesh, subMeshIndex, item.Key.material[subMeshIndex], item.Value.GetRange(i * 1023, item.Value.Count - i * 1023));
-                                //Graphics.DrawMesh(item.Key.mesh, item.Value[0], item.Key.material[subMeshIndex], 0, Camera.main, subMeshIndex);
-                            }*/
                             if (item.Key.mesh.subMeshCount >= 1)
                             {
                                 Graphics.DrawMeshInstanced(item.Key.mesh, 0, item.Key.mat1, item.Value.GetRange(i * 1023, item.Value.Count - i * 1023));
@@ -50,12 +43,6 @@ public class MapRenderer
                         }
                         else
                         {
-                            /*
-                            for (int subMeshIndex = 0; subMeshIndex < item.Key.mesh.subMeshCount; subMeshIndex++)
-                            {
-                                Graphics.DrawMeshInstanced(item.Key.mesh, subMeshIndex, item.Key.material[subMeshIndex], item.Value.GetRange(i*1023, 1023));
-                                //Graphics.DrawMesh(item.Key.mesh, item.Value[0], item.Key.material[subMeshIndex], 0, Camera.main, subMeshIndex);
-                            }*/
                             if (item.Key.mesh.subMeshCount >= 1)
                             {
                                 Graphics.DrawMeshInstanced(item.Key.mesh, 0, item.Key.mat1, item.Value.GetRange(i * 1023, 1023));
@@ -82,13 +69,6 @@ public class MapRenderer
                 }
                 else
                 {
-                    /*
-                    for (int subMeshIndex = 0; subMeshIndex < item.Key.mesh.subMeshCount; subMeshIndex++)
-                    {
-
-                        Graphics.DrawMeshInstanced(item.Key.mesh, subMeshIndex, item.Key.material[subMeshIndex], item.Value);
-                        //Graphics.DrawMesh(item.Key.mesh, item.Value[0], item.Key.material[subMeshIndex], 0, Camera.main, subMeshIndex);
-                    }*/
                     if (item.Key.mesh.subMeshCount >= 1)
                     {
                         foreach (var matrix in item.Value)
@@ -254,7 +234,6 @@ public class MapRenderer
                     tempMeshData.mat5 = tempMats[4];
                 }
                 AllMeshDataToAdd.Add(new InfoForDelete { instancedMeshData = tempMeshData, transformMatrix =  tempTransformMatrix });
-                //AllMeshDataToAdd.Add(new InfoForDelete { instancedMeshData = new InstancedMeshData { mesh = tempFilter.sharedMesh, material = tempRend.sharedMaterials[0] }, transformMatrix =  tempTransformMatrix });
             }
         }
 
@@ -274,8 +253,6 @@ public class MapRenderer
     {
         //Perform stuff
         List<InfoForDelete> AllMeshDataToAdd = new List<InfoForDelete>();
-
-        //Matrix4x4 mapMatrix = Matrix4x4.TRS(mapOrigin.localPosition, mapOrigin.localRotation, mapOrigin.localScale);
         MeshRenderer tempRend;
         MeshFilter tempFilter;
         Matrix4x4 tempTransformMatrix;
@@ -313,7 +290,6 @@ public class MapRenderer
                     tempMeshData.mat5 = tempMats[4];
                 }
                 AllMeshDataToAdd.Add(new InfoForDelete { instancedMeshData = tempMeshData, transformMatrix =  tempTransformMatrix });
-                //AllMeshDataToAdd.Add(new InfoForDelete { instancedMeshData = new InstancedMeshData { mesh = tempFilter.sharedMesh, material = tempRend.sharedMaterials[0] }, transformMatrix =  tempTransformMatrix });
             }
         }
 
@@ -330,13 +306,11 @@ public class MapRenderer
 public struct InstancedMeshData
 {
     public Mesh mesh;
-    //public Material[] material;
     public Material mat1;
     public Material mat2;
     public Material mat3;
     public Material mat4;
     public Material mat5;
-    //public Material material;
 }
 
 public struct InfoForDelete

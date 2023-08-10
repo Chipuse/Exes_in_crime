@@ -105,7 +105,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 6527965130330508783}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &5487311338789924281
 MonoBehaviour:
@@ -575,7 +575,6 @@ Transform:
   - {fileID: 6527965131591201535}
   - {fileID: 6527965130910174585}
   - {fileID: 6527965132162414253}
-  - {fileID: 6527965131395310491}
   - {fileID: 8629417584617934522}
   - {fileID: 1846541425583489915}
   m_Father: {fileID: 0}
@@ -3902,62 +3901,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
---- !u!1 &6527965131395310489
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 6527965131395310491}
-  - component: {fileID: 6527965131395310490}
-  m_Layer: 0
-  m_Name: CardCollectionDisplayer
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &6527965131395310491
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6527965131395310489}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 6527965130330508783}
-  m_RootOrder: 7
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &6527965131395310490
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6527965131395310489}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cb5f6fd2786975648a77f4143ff55556, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  cardVisPrefab: {fileID: 6208793507188628709, guid: 28702e4c875337346849454b4bd62d07, type: 3}
-  highlightedCard: 0
-  leftMargin: 0
-  rightMargin: 0
-  topMargin: 0
-  bottomMargin: 0
-  scrollOffset: 0
-  startCardsToDisplay: 
-  cardsToDisplay: []
-  cardStepLength: 0.5
-  cardAreaStepLength: 0.5
-  cardLayerSurface: {fileID: 6527965130794363434}
-  highlightedOffset: {x: 0, y: 0, z: 0}
 --- !u!1 &6527965131445141706
 GameObject:
   m_ObjectHideFlags: 0
@@ -7020,7 +6963,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8913468748108122964, guid: 6e29d53ff5acf884c80776de8a4614ac, type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 8913468748108122964, guid: 6e29d53ff5acf884c80776de8a4614ac, type: 3}
       propertyPath: m_LocalPosition.x

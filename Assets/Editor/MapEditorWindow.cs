@@ -332,11 +332,6 @@ public class MapEditorWindow : EditorWindow
                         }
                     }
                     MapManager._instance._mapData.tiles.Add(new SerializableData { positionKey = tempKey, assetPath = tempPath, direction = Direction.North });
-
-                    // Now flag the object as "dirty" in the editor so it will be saved
-                    //! it seems that undo already does all the Dirty stuff...
-                    //EditorUtility.SetDirty(MapManager._instance._mapData);
-                    
                     //Save scriptable object back to filesystem
                     AssetDatabase.SaveAssets();
                     

@@ -122,7 +122,7 @@ public class CardVisHand : MonoBehaviour
                     if (handCards[highlightedCard].data.CheckPlayCondition())
                     {
                         handCards[highlightedCard].data.PlayFromHand();
-                        return; //workaround to avoid playing multiple cards during the same step! Since card lsit gets modified by playing
+                        return; //workaround to avoid playing multiple cards during the same step! Since card list gets modified by playing
                     }
                 }
                 else
